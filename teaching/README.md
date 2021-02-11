@@ -10,4 +10,11 @@ En 2016, je réponds à la question en réalisant un sondage (45 questions) aupr
 
 ### Guide pratique sur les stages (avant, pendant et à la fin)
 
+Ce guide constitue un recueil des Questions Fréquemment Posées (FAQ) par les étudiants en formation initiale et en apprentissage en [DUT INFO à Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) ou [Licence Informatique MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels)
+
+Il traite de 
+- AVANT LE STAGE (préparation du stage, recherche d'entreprise ou offre de stage, prise de contact avec une entreprise, validation d'une offre de stage, et obtention de convention)
+- PENDANT LE STAGE (période, durée, gratification, extension)
+- A LA FIN DU STAGE (évaluation)
+
 [IUT Nantes - stages - FAQ](iutnantes_stage_FAQ.md) 

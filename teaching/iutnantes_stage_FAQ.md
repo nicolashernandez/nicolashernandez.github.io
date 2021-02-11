@@ -71,7 +71,7 @@ Pour les _LP_, le contenu de la licence est défini en concertation avec des act
 Mais un sujet valide ne suffit pas à rendre l'offre de stage valide !!! Voir une _offre de stage valide_.
 
 * [1] [Projet Pédagogique National (PPN) 2013](http://www.iut-informatique.fr/docs/ppn/fr.pdf)
-* [2] http://www.aeres-evaluation.fr
+* [2] [aeres](http://www.aeres-evaluation.fr)
 * [3] [Consulter la fiche RNCP nationale n°29966 relative au diplôme de Licence Pro MiAR](https://certificationprofessionnelle.fr/recherche/rncp/29966)
 
 A quoi ressemble une offre de stage valide ?
@@ -152,7 +152,7 @@ et directement : [jobteaser](https://univ-nantes.jobteaser.com/fr/dashboard)
 * [letudiant](http://jobs-stages.letudiant.fr/stages-etudiants.html)
 * [aujourdhui](http://nantes.aujourdhui.fr/etudiant/jobs-stages/offres/stage/informatique.html)
 * [leparisien](http://jobs-stages.leparisien.fr/)
-* [ouestfrance-emploi(http://www.ouestfrance-emploi.com/recherche-emploi/?lieu=544&q=informatique&w=Loire-Atlantique+(44)&libfonction=)
+* [ouestfrance-emploi](http://www.ouestfrance-emploi.com/recherche-emploi/?lieu=544&q=informatique&w=Loire-Atlantique)
 * [iquesta](http://www.iquesta.com)
 * [monster](https://www.monster.fr)
 * [linkedin](https://www.linkedin.com/)
