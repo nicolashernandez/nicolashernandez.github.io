@@ -3,17 +3,18 @@
 
 (Questions Fréquemment Posées sur les Stages)
 
-Cette FAQ est relative aux étudiants en formation initiale et en apprentissage en
-* [DUT INFO](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) 
+Dernière mise à jour 2021 02 11 
+
+Cette FAQ s'adresse aux étudiants en formation initiale et en apprentissage en
+* [DUT INFO à Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) 
 * ou [Licence Informatique MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels)
+Elle sert à centraliser l'information utile pour accompagner les étudiants dans la recherche et la réalisation de leur stage.
 
-
-Cette page complète des ressources officielles plus générales 
+Elles complète des ressources officielles plus générales 
 * [https://www.enseignementsup-recherche.gouv.fr/pid32310/guide-pratique-des-stages-etudiants.html](https://www.enseignementsup-recherche.gouv.fr/pid32310/guide-pratique-des-stages-etudiants.html)
 * [https://cache.media.enseignementsup-recherche.gouv.fr/file/Annexes/39/0/guidestages_419390.pdf](https://cache.media.enseignementsup-recherche.gouv.fr/file/Annexes/39/0/guidestages_419390.pdf)
 
-Dernière mise à jour 2021 02 11 
-
+ 
 Sommaire
 ===========
 
@@ -59,13 +60,9 @@ Ai-je accès à des exemples de rapports de stage ?        18
 Que dois-je faire si je ne peux me rendre en stage (i.e. au travail) pour raison de santé ?        19
 Puis-je étendre ma période de stage ?        19
 
-QUESTIONS GÉNÉRALES
+AVANT LE STAGE (préparation du stage, recherche de stage)
 ======================
 
-A qui s'adresse cette FAQ et à quoi sert-elle ?
------------------------------------------------
-- Cette FAQ est en premier lieu à l'attention des étudiants puis en second lieu à l'attention des enseignants 
-- Elle sert à centraliser l'information utile pour accompagner les étudiants dans la recherche et la réalisation de leur stage.
 
 Qui sont mes interlocuteurs à l'IUT ?
 -----------------------------------------------
@@ -74,7 +71,7 @@ Concernant les questions **Pédagogiques**
 * Jean-Francois Berdjugin, responsable pédagogique des alternances  : validation de sujet 
 * Sébastien Cazalas (culture et com') : préparation d'une candidature, entretien, rapport de stage…
 
-Concernant les questions  **administratives* (signature de convention…) : secrétariat du département informatique
+Concernant les questions  **administratives** (signature de convention…) : secrétariat du département informatique
 * Sylvie Burty pour les DUT 2
 * et Chloe Bagnariol pour les LP
 
@@ -87,58 +84,6 @@ Concernant votre **relation avec l'entreprise durant le stage, les dates et moda
 
 Si vous avez un doute adressez-vous au responsable des stages.
 
-
-Quand se déroule le stage ? Combien de temps dure-t-il ? Quand est la soutenance ?
------------------------------------------------
-
-Chaque année les dates sont quasiment identiques à quelques jours près :
-
-En _DUT_
-* débute à la mi avril et se termine autour de la mi-juin
-* dure 10 semaines (2 mois et demi). Ok pour 12 semaines (soit 3 mois)!
-* En 2020-2021 : du 12/04/2020 au 18/06/2020 ; soutenances 21-25/06 (à confirmer) ; commission S4 29/06, grand jury 5/07
-
-En _LP_
-* débute à la mi mars et se termine autour du la fin de la 1ère semaine de juillet
-* dure 16 semaines (4 mois)
-* En 2017-2018 : du 19 mars au 6 juillet
-* En 2019-2020 : du 13/04/2020 au 31/07/2020 avec possibilité de commencer du 17/02 au 13/03 (4 semaines) ; soutenances semaine 24/08 (les jeu/ven 27-28/08) à confirmer ; un seul jury début 09/2020
-
-Dans les deux cas, la soutenance est programmée les jours qui suivent.
-
-
-Quels textes légaux régissent le droit des stages ?
------------------------------------------------
-
-Le code de l'éducation
-* [https://www.service-public.fr/particuliers/vosdroits/F16734](https://www.service-public.fr/particuliers/vosdroits/F16734)
-* [https://www.service-public.fr/professionnels-entreprises/vosdroits/N16992](https://www.service-public.fr/professionnels-entreprises/vosdroits/N16992)
-* [https://travail-emploi.gouv.fr/emploi/mesures-jeunes/article/les-stages-etudiants-en-milieu-professionnel](https://travail-emploi.gouv.fr/emploi/mesures-jeunes/article/les-stages-etudiants-en-milieu-professionnel)
-
-Est-ce que je recevrai un salaire ? une gratification ?
------------------------------------------------
-
-Vous ne recevrez pas de salaire mais une gratification calculée au prorata du nombres de jours passés en stage.
-
-Pour les étudiants en stage durant l'année universitaire 2014-2015, le montant de la gratification sera au minimum de 508,20 €.
-
-Pour connaître les conditions courante de l'année (mise à jour au 1er janvier chaque année : [Gratification minimale d'un stagiaire étudiant ou élève dans une entreprise](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32131)
-
-
-Combien de European Credits (EC) me rapporte mon stage ?
------------------------------------------------
-
-* En _DUT_, le stage est un coefficient 12 sur un total de 30 au semestre 4. Le semestre 4 représente 30 EC (donc le stage en fait 12…)
-* En _LP_, le stage représente 14 EC
-
-Quels sont les objectifs et compétences visées par le stage ?
------------------------------------------------
-
-* Pour les _DUT_, les objectifs et compétences visées par le stage dans le [Projet Pédagogique National (PPN) 2013](http://www.iut-informatique.fr/docs/ppn/fr.pdf). 
-* Pour les _LP_, ces informations sont disponibles dans _Référentiel d'activités et de compétences (RAC)_. [Consulter la fiche RNCP nationale n°29966 relative à ce diplôme](https://certificationprofessionnelle.fr/recherche/rncp/29966)
-
-RECHERCHE DE STAGE
-======================
 
 Qu'est ce qu'une offre de stage valide ?
 -----------------------------------------------
@@ -266,9 +211,10 @@ et directement : [jobteaser](https://univ-nantes.jobteaser.com/fr/dashboard)
 Quand dois-je chercher un stage ?
 -----------------------------------------------
 
+**  Commencez vos recherches 6 mois avant la date prévue du stage**
+
 * S. Cazalas termine fin décembre son package sur toutes les techniques de combat (à distance et rapprochée) en recherche d'un stage (comment faire un CV…)
-* En pratique, des entreprises cherchent toute l’année mais les grandes entreprises assignent les crédits stages très tôt dans l’année universitaire ; des étudiants d’autres établissements d’enseignement cherchent aussi !
-En conclusion, la recherche doit débuter entre 6 et 3 mois en amont. Les premiers arrivés, les premiers servis…
+* En pratique, des entreprises cherchent toute l’année mais les grandes entreprises assignent les crédits stages très tôt dans l’année universitaire ; des étudiants d’autres établissements d’enseignement cherchent aussi ! Les premiers arrivés, les premiers servis…
 
 Puis-je faire mon stage sur Mars ?
 -----------------------------------------------
@@ -321,6 +267,31 @@ Si tel est le cas alors débrouillez-vous de rencontrer l'entreprise et de prés
 
 La réponse est donc : oui à moins que je ne vous ai validé une offre de stage !
 
+
+
+CONTACTER UNE ENTREPRISE
+======================
+
+Comment faire pour retenir l'attention d'une entreprise
+-------------------------------------------------------
+
+- montrer que vous vous êtes renseigné sur l'entreprise ou sur l'offre qu'elle propose
+- personnaliser votre candidature à l'entreprise et/ou à l'offre 
+
+Un des premiers points sur lequel veiller : **la communication !** 
+
+Consulter les conseils des autres étudiants récoltés lors d'un sondage antérieur.
+
+La règle d'or : **Etre différent tout en restant respectueux** 
+
+Bonnes pratiques lorsque vous écrivez vos mails : Celui auprès de qui vous formulez une demande (l'entreprise, votre tuteur enseignant, le responsable des stages) veut rapidement vous identifier et ne veut surtout pas avoir à faire d'efforts pour le faire (surtout quand il a 36 projets à suivre et 212 autres sujets à traiter dans ses mails).
+
+* Adopter un mot clef qui vous garderez dans tous vos échanges avec votre interlocuteur et qui préfixera vos sujets (“stage - candidature spontanée de M. Jean Bon (DUT Informatique Bac+2)”)
+* Toujours faire un “répondre à tous” si il y a plusieurs destinataires
+* Pour tous les fichiers que vous transmettez, préférer le format PDF que les formats dont l'interprétation dépend de la version du logiciel avec lequel vous le lisez (doc, odt…). Vos logiciels offrent souvent la fonctionnalité directement (parfois il faut passer par “imprimer” > “dans un fichier”).
+* Préférer l'envoi d'un lien où télécharger une fichier (e.g. un cv) plutôt que de l'attacher au mail (évite des explosions de boîtes). L'université vous offre un [service de partage de fichiers](uncloud.univ-nantes.fr/). Vous pouvez aussi indiquer des liens vers des ressources hébergés sur votre site web.
+
+
 Problèmes rencontrés par les étudiants
 --------------------------------------
 
@@ -332,21 +303,6 @@ Problèmes rencontrés par les étudiants
 * vous ne connaissez pas la netiquette -> mettre en cc les personnes concernées notamment tuteur/maître de stage dans les échanges, faire un répondre à tous quand plusieurs,  envoyer un lien où télécharger un fichier plutôt qu'une pièce en attaché la planète vous le rendra, 
 * vous ne faîtes pas de relance -> faire des relances par mail/tel au bout d'une semaine
 
-CONTACTER UNE ENTREPRISE
-======================
-
-Un des premiers points sur lequel veiller : la communication ! 
-
-Consulter les conseils des autres étudiants récoltés lors d'un sondage antérieur.
-
-La règle d'or : **Etre différent** → profiler votre candidature à l'entreprise et à l'offre de stage
-
-Bonnes pratiques lorsque vous écrivez vos mails : Celui auprès de qui vous formulez une demande (l'entreprise, votre tuteur enseignant, le responsable des stages) veut rapidement vous identifier et ne veut surtout pas avoir à faire d'efforts pour le faire (surtout quand il a 36 projets à suivre et 212 autres sujets à traiter dans ses mails).
-
-* Adopter un mot clef qui vous garderez dans tous vos échanges avec votre interlocuteur et qui préfixera vos sujets (“stage - candidature spontanée de M. Jean Bon (DUT Informatique Bac+2)”)
-* Toujours faire un “répondre à tous” si il y a plusieurs destinataires
-* Pour tous les fichiers que vous transmettez, préférer le format PDF que les formats dont l'interprétation dépend de la version du logiciel avec lequel vous le lisez (doc, odt…). Vos logiciels offrent souvent la fonctionnalité directement (parfois il faut passer par “imprimer” > “dans un fichier”).
-* Préférer l'envoi d'un lien où télécharger une fichier (e.g. un cv) plutôt que de l'attacher au mail (évite des explosions de boîtes). L'université vous offre un [service de partage de fichiers](uncloud.univ-nantes.fr/). Vous pouvez aussi indiquer des liens vers des ressources hébergés sur votre site web.
 
 FAIRE VALIDER UNE OFFRE DE STAGE
 ====================================
@@ -413,8 +369,62 @@ Il vous faut alors vous présenter muni d'une attestation Assurance Responsabili
 Sauf cas particulier, le secrétariat se charge d'envoyer la convention à l'entreprise.
 En pratique la préparation des conventions débute en janvier…
 
+
 PENDANT LE STAGE
-==================
+======================
+
+
+Quels textes légaux régissent le droit des stages ?
+-----------------------------------------------
+
+Le code de l'éducation
+* [https://www.service-public.fr/particuliers/vosdroits/F16734](https://www.service-public.fr/particuliers/vosdroits/F16734)
+* [https://www.service-public.fr/professionnels-entreprises/vosdroits/N16992](https://www.service-public.fr/professionnels-entreprises/vosdroits/N16992)
+* [https://travail-emploi.gouv.fr/emploi/mesures-jeunes/article/les-stages-etudiants-en-milieu-professionnel](https://travail-emploi.gouv.fr/emploi/mesures-jeunes/article/les-stages-etudiants-en-milieu-professionnel)
+
+
+Quels sont les objectifs et compétences visées par le stage ?
+-----------------------------------------------
+
+* Pour les _DUT_, les objectifs et compétences visées par le stage dans le [Projet Pédagogique National (PPN) 2013](http://www.iut-informatique.fr/docs/ppn/fr.pdf). 
+* Pour les _LP_, ces informations sont disponibles dans _Référentiel d'activités et de compétences (RAC)_. [Consulter la fiche RNCP nationale n°29966 relative à ce diplôme](https://certificationprofessionnelle.fr/recherche/rncp/29966)
+
+
+Quelles sont les périodes de stage ? Quelle est sa durée ? Quand est la soutenance ?
+-----------------------------------------------
+
+Chaque année les dates sont quasiment identiques à quelques jours près :
+
+En _DUT_
+* débute à la mi avril et se termine autour de la mi-juin
+* dure 10 semaines (2 mois et demi). Ok pour 12 semaines (soit 3 mois)!
+* En 2020-2021 : du 12/04/2020 au 18/06/2020 ; soutenances 21-25/06 (à confirmer) ; commission S4 29/06, grand jury 5/07
+
+En _LP_
+* débute à la mi mars et se termine autour du la fin de la 1ère semaine de juillet
+* dure 16 semaines (4 mois)
+* En 2017-2018 : du 19 mars au 6 juillet
+* En 2019-2020 : du 13/04/2020 au 31/07/2020 avec possibilité de commencer du 17/02 au 13/03 (4 semaines) ; soutenances semaine 24/08 (les jeu/ven 27-28/08) à confirmer ; un seul jury début 09/2020
+
+Dans les deux cas, la soutenance est programmée les jours qui suivent.
+
+
+Est-ce que je recevrai un salaire ? une gratification ?
+-----------------------------------------------
+
+Vous ne recevrez pas de salaire mais une gratification calculée au prorata du nombres de jours passés en stage.
+
+Pour les étudiants en stage durant l'année universitaire 2014-2015, le montant de la gratification sera au minimum de 508,20 €.
+
+Pour connaître les conditions courante de l'année (mise à jour au 1er janvier chaque année : [Gratification minimale d'un stagiaire étudiant ou élève dans une entreprise](https://www.service-public.fr/professionnels-entreprises/vosdroits/F32131)
+
+Combien de European Credits (EC) me rapporte mon stage ?
+-----------------------------------------------
+
+* En _DUT_, le stage est un coefficient 12 sur un total de 30 au semestre 4. Le semestre 4 représente 30 EC (donc le stage en fait 12…)
+* En _LP_, le stage représente 14 EC
+
+
 
 Quel suivi et quel encadrement je bénéficie durant le stage ?
 -----------------------------------------------
@@ -446,6 +456,45 @@ _Deux semaines avant la soutenance_,
 Quelques précisions
 * L’entreprise doit (idéalement) vous ménager du temps pour la rédaction de votre rapport
 
+
+Que dois-je faire si je ne peux me rendre en stage (i.e. au travail) pour raison de santé ?
+-----------------------------------------------
+
+Informez-en LE PLUS TÔT possible votre tuteur enseignant et votre maître de stage.
+
+Il est important que vous alliez chez un médecin pour qu'il vous fasse un arrêt de travail pour les jours où vous êtes/serez absent. Il faudra remettre une copie à l'entreprise ainsi qu'à l'IUT (secrétariat).
+Si l'entreprise le désire, nous ferons un avenant pour prolonger votre contrat et rattraper ces jours à la fin de la période initialement prévue.
+Plus de cinq jours d'absence, il y aura extension de fait.
+
+
+
+Puis-je étendre ma période de stage ?
+-----------------------------------------------
+
+La position de l'université est la suivante : 
+
+_la prolongation d'un stage pour un étudiant est strictement encadrée._
+_* Prolonger un stage au-delà du jury attribuant le diplôme, à titre dérogatoire exceptionnel, est possible mais seulement pour quelques jours et sous réserve que le stage a débuté bien en amont de la date du jury._
+_* Les étudiants ayant achevé leur parcours de formation n'ont pas vocation à être accueillis en stage et de fait, une collaboration entre l'entreprise et l'étudiant est alors possible dans un cadre contractuel entre ces 2 parties.
+Ainsi, toute demande de prolongation de plus d'une semaine ne sera pas autorisée. Les demandes de quelques jours d'extension pourront être étudiées. Dans tous les cas, la convention initialement signée par l'étudiant, l'entreprise et l'IUT stipulera seulement la durée minimale légale requise._
+_Si une extension de quelques jours est acceptée (par l'IUT après demande de l'étudiant et l'entreprise), alors un avenant devra être signé pour étendre le contrat de quelques jours._
+
+
+
+
+A LA FIN DU STAGE 
+============================
+
+Comment suis-je évalué ? 
+-----------------------------------------------
+
+Il s'agit d'une évaluation conjointe maître du stage, tuteur enseignant/enseignant-référent et un autre enseignant sur :
+
+* Le travail en entreprise au regard des objectifs fixés dans la convention
+* Le rapport écrit, cadré dans sa forme, mettant en évidence les compétences mises en œuvre au cours du stage
+* La soutenance orale
+
+
 Que peut t-on trouver dans un mémoire de stage ?
 -------------------------------------------------
 * Ici des [consignes pour un rapport technique](http://enicolashernandez.blogspot.fr/2011/03/redaction-dun-rapport-de-stage.html) (à la carte), mais votre rapport est un mémoire et non un rapport technique. Attention néanmoins, il doit démontrer vos compétences informatiques nouvellement acquises ou bien mise en oeuvre par rapport à votre formation. Il est en cela un brin technique…
@@ -459,40 +508,10 @@ Que peut t-on trouver dans un mémoire de stage ?
 * l'analyse de la problématique : étude de l'existant, spécification du besoin, modélisation (différents diagrammes UML)
 * réalisations, planification, avancement, problèmes et solutions apportés, rapport d'expérience
 
-Comment suis-je évalué ?
-============================
-
-Évaluation conjointe maître du stage, tuteur enseignant et un autre enseignant sur :
------------------------------------------------
-
-* Le travail en entreprise au regard des objectifs fixés dans la convention
-* Le rapport écrit, cadré dans sa forme, mettant en évidence les compétences mises en œuvre au cours du stage
-* La soutenance orale
 
 Ai-je accès à des exemples de rapports de stage ?
 -----------------------------------------------
 
 Oui vous pouvez consulter une sélection des meilleurs rapports des années précédentes au CDI/CIO de l'IUT (attention au plagiat de style ou de contenu).
-
-
-Que dois-je faire si je ne peux me rendre en stage (i.e. au travail) pour raison de santé ?
------------------------------------------------
-
-Informez-en LE PLUS TÔT possible votre tuteur enseignant et votre maître de stage.
-
-Il est important que vous alliez chez un médecin pour qu'il vous fasse un arrêt de travail pour les jours où vous êtes/serez absent. Il faudra remettre une copie à l'entreprise ainsi qu'à l'IUT (secrétariat).
-Si l'entreprise le désire, nous ferons un avenant pour prolonger votre contrat et rattraper ces jours à la fin de la période initialement prévue.
-Plus de cinq jours d'absence, il y aura extension de fait.
-
-Puis-je étendre ma période de stage ?
------------------------------------------------
-
-La position de l'université est la suivante : 
-
-_la prolongation d'un stage pour un étudiant est strictement encadrée._
-_* Prolonger un stage au-delà du jury attribuant le diplôme, à titre dérogatoire exceptionnel, est possible mais seulement pour quelques jours et sous réserve que le stage a débuté bien en amont de la date du jury._
-_* Les étudiants ayant achevé leur parcours de formation n'ont pas vocation à être accueillis en stage et de fait, une collaboration entre l'entreprise et l'étudiant est alors possible dans un cadre contractuel entre ces 2 parties.
-Ainsi, toute demande de prolongation de plus d'une semaine ne sera pas autorisée. Les demandes de quelques jours d'extension pourront être étudiées. Dans tous les cas, la convention initialement signée par l'étudiant, l'entreprise et l'IUT stipulera seulement la durée minimale légale requise._
-_Si une extension de quelques jours est acceptée (par l'IUT après demande de l'étudiant et l'entreprise), alors un avenant devra être signé pour étendre le contrat de quelques jours._
 
 
