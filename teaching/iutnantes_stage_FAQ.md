@@ -14,55 +14,19 @@ Elles complète des ressources officielles plus générales
 * [https://www.enseignementsup-recherche.gouv.fr/pid32310/guide-pratique-des-stages-etudiants.html](https://www.enseignementsup-recherche.gouv.fr/pid32310/guide-pratique-des-stages-etudiants.html)
 * [https://cache.media.enseignementsup-recherche.gouv.fr/file/Annexes/39/0/guidestages_419390.pdf](https://cache.media.enseignementsup-recherche.gouv.fr/file/Annexes/39/0/guidestages_419390.pdf)
 
- 
-Sommaire
+SOMMAIRE
 ===========
 
-FAQ sur les Stages (Questions Fréquemment Posées sur les Stages)        1
-QUESTIONS GÉNÉRALES        3
-A qui s'adresse cette FAQ et à quoi sert-elle ?        3
-Qui sont mes interlocuteurs à l'IUT ?        3
-A quelle période a lieu mon stage ? Combien de temps dure-t-il ? Quand est la soutenance ?        4
-Quels sont les textes qui régissent le cadre légal des stages ?        4
-Est-ce que je recevrai un salaire ? une gratification ?        4
-Combien de European Credits (EC) me rapporte mon stage ?        5
-Quels sont les objectifs et compétences visées par le stage ?        5
-RECHERCHE DE STAGE        6
-Qu'est ce qu'une offre de stage valide ?        6
-Qu'est ce qu'une mission en adéquation avec ma formation ?        6
-Quelles sont les informations que l'on devrait trouver dans le descriptif d'une offre de stage valide ?        7
-Y a t il des exemples d'offres valides et invalides quelque part ?        7
-Comment m'assurer que le responsable des stages pourra valider une offre ?        8
-Où chercher un stage ou une entreprise susceptible de vous accueillir ?        8
-Quand dois-je chercher un stage ?        10
-Puis-je faire mon stage sur Mars ?        10
-Je souhaite faire un stage à l'étranger        11
-Je souhaite avoir un avis sur une offre ou une entreprise avant d'aller plus loin ?        11
-Est-ce que je dois rendre des comptes à quelqu'un durant ma recherche de stage ?        11
-J'ai de fortes chances d'être pris par une entreprise dois-je quand même envoyer des candidatures réelles ?        12
-Problèmes rencontrés par les étudiants        12
-CONTACTER UNE ENTREPRISE        13
-La règle d'or        13
-Bonnes pratiques lorsque vous écrivez vos mails        13
-FAIRE VALIDER UNE OFFRE DE STAGE        13
-Comment faire valider une offre de stage par le responsable des stages ?        14
-J'ai trouvé une entreprise à côté de chez moi qui accepte de me prendre en stage        14
-J'ai trouvé une offre de stage dans un domaine en adéquation avec la formation mais pour l'encadrement technique en entreprise n'est pas suffisante        15
-J'ai trouvé une offre de stage avec un encadrement suffisant mais sur des activités qui ne sont pas en adéquation avec la formation        15
-OFFRE DE STAGE VALIDÉE, MAIS PAS ENCORE DE CONVENTION        15
-Que dois-je faire après que le responsable des stages ait validé une offre que je lui ai présentée        15
-Qui se charge d'établir la convention des stages ? Quand puis-je la signer ?        16
-PENDANT LE STAGE        16
-Quel suivi et quel encadrement je bénéficie durant le stage ?        16
-Dois-je rendre des comptes à l'IUT durant le stage ?        17
-Comment suis-je évalué ?        18
-Ai-je accès à des exemples de rapports de stage ?        18
-Que dois-je faire si je ne peux me rendre en stage (i.e. au travail) pour raison de santé ?        19
-Puis-je étendre ma période de stage ?        19
+- AVANT LE STAGE (préparation du stage, recherche de stage)
+- CONTACTER UNE ENTREPRISE
+- FAIRE VALIDER UNE OFFRE DE STAGE
+- OFFRE DE STAGE VALIDÉE, MAIS PAS ENCORE DE CONVENTION
+- PENDANT LE STAGE
+- A LA FIN DU STAGE 
+
 
 AVANT LE STAGE (préparation du stage, recherche de stage)
 ======================
-
 
 Qui sont mes interlocuteurs à l'IUT ?
 -----------------------------------------------
@@ -349,6 +313,7 @@ J'ai trouvé une offre de stage avec un encadrement suffisant mais sur des activ
 L'offre de stage ne sera pas validée. Poursuivre votre recherche.
 Le diplôme que vous préparez est un diplôme universitaire de technicien supérieur en informatique. On ne peut pas vous attribuer ce diplôme si vous ne validez pas un stage dans le domaine.
 
+
 OFFRE DE STAGE VALIDÉE, MAIS PAS ENCORE DE CONVENTION
 ======================
 
@@ -368,7 +333,6 @@ Lorsque la convention est prête, vous recevrez un mail vous invitant à passer 
 Il vous faut alors vous présenter muni d'une attestation Assurance Responsabilité Civile couvrant la période de stage.
 Sauf cas particulier, le secrétariat se charge d'envoyer la convention à l'entreprise.
 En pratique la préparation des conventions débute en janvier…
-
 
 PENDANT LE STAGE
 ======================
@@ -478,7 +442,6 @@ _* Prolonger un stage au-delà du jury attribuant le diplôme, à titre dérogat
 _* Les étudiants ayant achevé leur parcours de formation n'ont pas vocation à être accueillis en stage et de fait, une collaboration entre l'entreprise et l'étudiant est alors possible dans un cadre contractuel entre ces 2 parties.
 Ainsi, toute demande de prolongation de plus d'une semaine ne sera pas autorisée. Les demandes de quelques jours d'extension pourront être étudiées. Dans tous les cas, la convention initialement signée par l'étudiant, l'entreprise et l'IUT stipulera seulement la durée minimale légale requise._
 _Si une extension de quelques jours est acceptée (par l'IUT après demande de l'étudiant et l'entreprise), alors un avenant devra être signé pour étendre le contrat de quelques jours._
-
 
 
 
