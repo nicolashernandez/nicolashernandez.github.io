@@ -1,11 +1,11 @@
-# Ressources pédagogiques
+# Ressources pédagogiques / Course material
 
 
-## Course material
+## Enseignements / teachings
 
+Most of them under Creative Commons
 
 ### Architecture des réseaux en DUT 1ère année 
-
 
 Accédez ici aux ressources pédagogiques du [cours Architecture des réseaux (M2102) - DUT 1ère année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) 
 
@@ -14,8 +14,9 @@ Vidéo, diaporama, test d'auto-évaluation en ligne à disposition sous licence 
 Correspond au [module M2102 du Programme Pédagogique National (PPN) Informatique de 2013](http://iut-informatique.fr/docs/ppn/fr.pdf)
 
 
-Administration des systèmes et des réseaux (M4101C) en DUT 2e année 
--------------------------------------------------------------------
+### Administration des systèmes et des réseaux (M4101C) en DUT 2e année
+
+Architecture d’un réseau d’entreprise ;  Installation et configuration des services ; Gestion     des     utilisateurs ; Sécurité du système et du réseau : listes d’accès et de contrôle, authentification, etc. ; Protocoles sécurisés ;  réseaux privés virtuels ; Annuaires: LDAP (Lightweight Directory Access Protocol), AD (Active Directory) ; Chiffrement de données ; Outils     de     supervision ; Mise en œuvre d’une stratégie de sauvegarde 
 
 Accédez ici aux ressources pédagogiques du [cours Administration des systèmes et des réseaux (M4101C) - DUT 2e année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) 
 
