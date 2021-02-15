@@ -6,6 +6,7 @@
 
 ### Architecture des réseaux en DUT 1ère année 
 
+
 Accédez ici aux ressources pédagogiques du [cours Architecture des réseaux (M2102) - DUT 1ère année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) 
 
 Vidéo, diaporama, test d'auto-évaluation en ligne à disposition sous licence Creative Commons (sauf précision)
@@ -13,7 +14,8 @@ Vidéo, diaporama, test d'auto-évaluation en ligne à disposition sous licence 
 Correspond au [module M2102 du Programme Pédagogique National (PPN) Informatique de 2013](http://iut-informatique.fr/docs/ppn/fr.pdf)
 
 
-### Administration des systèmes et des réseaux (M4101C) en DUT 2e année 
+Administration des systèmes et des réseaux (M4101C) en DUT 2e année 
+-------------------------------------------------------------------
 
 Accédez ici aux ressources pédagogiques du [cours Administration des systèmes et des réseaux (M4101C) - DUT 2e année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) 
 
