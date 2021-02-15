@@ -6,24 +6,16 @@ Most of them are released under Creative Commons
 
 ### Architecture des réseaux en DUT 1ère année
 
-Archite
-Accédez ici aux ressources pédagogiques du [cours Architecture des réseaux (M2102) - DUT 1ère année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) 
+Étude  d'architectures  de  réseaux,  incluant  les  modèles  OSI  (Open  Systems  Interconnection)  et  la  pile  TCP/IP (Transmission Control Protocol / Internet Protocol) ;     Technologie des réseaux locaux : Ethernet, WiFi (Wireless Fidelity), etc. ;     Routage, commutation, adressage, transport  ;     Introduction à l’installation et la configuration d'un réseau 
 
-Vidéo, diaporama, test d'auto-évaluation en ligne à disposition sous licence Creative Commons (sauf précision)
-
-Correspond au [module M2102 du Programme Pédagogique National (PPN) Informatique de 2013](http://iut-informatique.fr/docs/ppn/fr.pdf)
+Accédez ici aux ressources pédagogiques (consignes, vidéo, diaporama, test d'auto-évaluation en ligne...) du [cours Architecture des réseaux (M2102) - DUT 1ère année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) qui correspond au [module M2102 du Programme Pédagogique National (PPN) Informatique de 2013](http://iut-informatique.fr/docs/ppn/fr.pdf)
 
 
 ### Administration des systèmes et des réseaux (M4101C) en DUT 2e année
 
 Architecture d’un réseau d’entreprise ;  Installation et configuration des services ; Gestion     des     utilisateurs ; Sécurité du système et du réseau : listes d’accès et de contrôle, authentification, etc. ; Protocoles sécurisés ;  réseaux privés virtuels ; Annuaires: LDAP (Lightweight Directory Access Protocol), AD (Active Directory) ; Chiffrement de données ; Outils     de     supervision ; Mise en œuvre d’une stratégie de sauvegarde 
 
-Accédez ici aux ressources pédagogiques du [cours Administration des systèmes et des réseaux (M4101C) - DUT 2e année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) 
-
-Vidéo, diaporama, test d'auto-évaluation en ligne à disposition sous licence Creative Commons (sauf précision)
-
-Correspond au [module M4101C du Programme Pédagogique National (PPN) Informatique de 2013](http://iut-informatique.fr/docs/ppn/fr.pdf).
-
+Accédez ici aux ressources pédagogiques (consignes, vidéo, diaporama, test d'auto-évaluation en ligne...) du [cours Administration des systèmes et des réseaux](https://madoc.univ-nantes.fr/course/view.php?id=29848) qui correspond au [module M4101C du Programme Pédagogique National (PPN) Informatique de 2013](http://iut-informatique.fr/docs/ppn/fr.pdf).
 
 
 ## Stages
