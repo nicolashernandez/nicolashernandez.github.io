@@ -1,9 +1,11 @@
 [Curriculum vitae](curriculumvitae) - [Publications](publications) - [Software and data resources](softwareanddataresources) - [Teaching](teaching)
 
+
 I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the at [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
 
 
 ## Main research topics
+
 
 My research interests lie in the Natural Language Processing (NLP) field around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The work is upstream from applications such as summarization, reader assistance and web semantic reasoning. The approaches combine statistical methods and linguistics. 
 
@@ -15,12 +17,16 @@ Publications: You may consult the dedicated [publications](publications)  page a
 
 More details on: the CV pages.
 
+
 ### Activities around "E-Learning"
+
 
 * Projet PASTEL - ANR 2016-2021 (Transcription Automatique de la Parole pour l'Apprentissage et la Formation)
 * Projet CominLab's AILE 2019 (Artificial Intelligence for Learning Environments) with several internships
 
+
 ### Activities around "Discourse modelling and analysis"
+
 
 * Depuis 2007, membre du comité de rédaction de la [revue électronique Discours](https://journals.openedition.org/discours) ; co-chief editor since 2019
 * Projet ODISAE (Optimizing Digital Interaction with a Social and Automated Environment) - FUI 17 (2014-2016)  ; Réaliser un analyseur sémantique de conversations en ligne (par chat, email ou sur un forum) et de l’utiliser pour enrichir un système de gestion de la relation client (mettre à jour automatiquement les FAQ, détecter les experts, évaluer la qualité des réponses, déclencher des actions au fil de l’interaction, analyser les comportements d’utilisation des différents canaux d’interaction et en particulier l’inter-modalité...)

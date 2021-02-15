@@ -1,6 +1,8 @@
 # Ressources pédagogiques
 
-## Enseignements
+
+## Course material
+
 
 ### Architecture des réseaux en DUT 1ère année 
 
@@ -9,6 +11,7 @@ Accédez ici aux ressources pédagogiques du [cours Architecture des réseaux (M
 Vidéo, diaporama, test d'auto-évaluation en ligne à disposition sous licence Creative Commons (sauf précision)
 
 Correspond au [module M2102 du Programme Pédagogique National (PPN) Informatique de 2013](http://iut-informatique.fr/docs/ppn/fr.pdf)
+
 
 ### Administration des systèmes et des réseaux (M4101C) en DUT 2e année 
 
