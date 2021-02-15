@@ -1,12 +1,12 @@
 # Ressources pédagogiques / Course material
 
+## Enseignements / teaching
 
-## Enseignements / teachings
+Most of them are released under Creative Commons
 
-Most of them under Creative Commons
+### Architecture des réseaux en DUT 1ère année
 
-### Architecture des réseaux en DUT 1ère année 
-
+Archite
 Accédez ici aux ressources pédagogiques du [cours Architecture des réseaux (M2102) - DUT 1ère année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) 
 
 Vidéo, diaporama, test d'auto-évaluation en ligne à disposition sous licence Creative Commons (sauf précision)
