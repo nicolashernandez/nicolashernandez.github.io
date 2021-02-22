@@ -1,4 +1,4 @@
-﻿FAQ à propos des Stages réalisés au Département Informatique de l'IUT de Nantes
+FAQ à propos des Stages réalisés au Département Informatique de l'IUT de Nantes
 ===============================================================================
 
 (Questions Fréquemment Posées sur les Stages)
@@ -146,6 +146,8 @@ Où chercher un stage ou une entreprise susceptible de vous accueillir ?
 * [armor-group](https://www.armor-group.com/fr/offres-emploi)
 
 [5] 
+* [choisirmonstage-paysdelaloire](https://choisirmonstage-paysdelaloire.fr) 2021
+* [1jeune1solution](https://www.1jeune1solution.gouv.fr/emplois?departement=44&distance=0&motsCles=informatique) 2021
 * [career-center.univ-nantes](http://www.univ-nantes.fr/preparer-sa-carriere/le-career-center-de-l-universite-de-nantes-ma-plateforme-d-offres-et-de-conseils-2083909.kjsp)
 et directement : [jobteaser](https://univ-nantes.jobteaser.com/fr/dashboard)
 * [lesjeudis](http://www.lesjeudis.com)
@@ -478,3 +480,6 @@ Ai-je accès à des exemples de rapports de stage ?
 Oui vous pouvez consulter une sélection des meilleurs rapports des années précédentes au CDI/CIO de l'IUT (attention au plagiat de style ou de contenu).
 
 
+Et après le stage ?
+-----------------------------------------------
+Rejoignez le [groupe "Alumni Informatique Université Nantes (tout diplôme en Informatique de Université de Nantes)" sur linkedin](https://www.linkedin.com/groups/4724503). Des offres d'emploi 
