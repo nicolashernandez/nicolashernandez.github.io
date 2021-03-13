@@ -160,6 +160,8 @@ et directement : [jobteaser](https://univ-nantes.jobteaser.com/fr/dashboard)
 * [linkedin](https://www.linkedin.com/)
 * [indeed](https://www.indeed.fr/)
 * [pole-emploi](https://candidat.pole-emploi.fr/offres/recherche?lieux=52R&motsCles=informatique&offresPartenaires=false&rayon=10&tri=0)
+* [clubaffaires44](https://www.clubaffaires44.com/annonces)
+* [guerandeatlantique](https://www.guerandeatlantique.fr/annonces) 
 
 [6] 
 * [lestetesdelemploi.univ-nantes](http://www.lestetesdelemploi.univ-nantes.fr) mais aussi [entreprises.univ-nantes](http://www.entreprises.univ-nantes.fr/)
