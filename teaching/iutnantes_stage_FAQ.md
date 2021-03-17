@@ -146,22 +146,23 @@ Où chercher un stage ou une entreprise susceptible de vous accueillir ?
 * [armor-group](https://www.armor-group.com/fr/offres-emploi)
 
 [5] 
+* [ouestfrance-emploi](http://www.ouestfrance-emploi.com/recherche-emploi/?lieu=544&q=informatique&w=Loire-Atlantique)
+* [linkedin](https://www.linkedin.com/)
 * [choisirmonstage-paysdelaloire](https://choisirmonstage-paysdelaloire.fr) 2021
 * [1jeune1solution](https://www.1jeune1solution.gouv.fr/emplois?departement=44&distance=0&motsCles=informatique) 2021
+* [apec](https://www.apec.fr/candidat/recherche-stage.html/stage?lieux=44&secteursActivite=101753) 2021
 * [career-center.univ-nantes](http://www.univ-nantes.fr/preparer-sa-carriere/le-career-center-de-l-universite-de-nantes-ma-plateforme-d-offres-et-de-conseils-2083909.kjsp)
 et directement : [jobteaser](https://univ-nantes.jobteaser.com/fr/dashboard)
 * [lesjeudis](http://www.lesjeudis.com)
 * [letudiant](http://jobs-stages.letudiant.fr/stages-etudiants.html)
 * [aujourdhui](http://nantes.aujourdhui.fr/etudiant/jobs-stages/offres/stage/informatique.html)
 * [leparisien](http://jobs-stages.leparisien.fr/)
-* [ouestfrance-emploi](http://www.ouestfrance-emploi.com/recherche-emploi/?lieu=544&q=informatique&w=Loire-Atlantique)
 * [iquesta](http://www.iquesta.com)
 * [monster](https://www.monster.fr)
-* [linkedin](https://www.linkedin.com/)
 * [indeed](https://www.indeed.fr/)
 * [pole-emploi](https://candidat.pole-emploi.fr/offres/recherche?lieux=52R&motsCles=informatique&offresPartenaires=false&rayon=10&tri=0)
-* [clubaffaires44](https://www.clubaffaires44.com/annonces)
-* [guerandeatlantique](https://www.guerandeatlantique.fr/annonces) 
+* [clubaffaires44](https://www.clubaffaires44.com/annonces) 2021
+* [guerandeatlantique](https://www.guerandeatlantique.fr/annonces) 2021 
 
 [6] 
 * [lestetesdelemploi.univ-nantes](http://www.lestetesdelemploi.univ-nantes.fr) mais aussi [entreprises.univ-nantes](http://www.entreprises.univ-nantes.fr/)
