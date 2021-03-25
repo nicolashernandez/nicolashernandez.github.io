@@ -13,7 +13,7 @@ I am also interested in NLP infrastructure/architecture/framework (UIMA) and in 
 
 Keywords : Accessing the content of ( textual ) documents ; discourse analysis and modelling ; language resource and NLP infrastructure/architecture ; [UIMA](https://github.com/nicolashernandez/dev-star)
 
-Publications: You may consult the dedicated [publications](publications)  page and my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](http%3A%2F%2Fhal.archives-ouvertes.fr%2Faut%2Fnicolas%2Bhernandez%2F&sa=D&sntz=1&usg=AFQjCNGDzo4443UOUVL3BufXTRSuXxZDIQ) profiles.
+Publications: You may consult the dedicated [publications](research/publications)  page and my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](http%3A%2F%2Fhal.archives-ouvertes.fr%2Faut%2Fnicolas%2Bhernandez%2F&sa=D&sntz=1&usg=AFQjCNGDzo4443UOUVL3BufXTRSuXxZDIQ) profiles.
 
 More details on: the CV pages.
 
