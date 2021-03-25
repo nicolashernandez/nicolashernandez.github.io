@@ -1,4 +1,4 @@
-[Curriculum vitae](curriculumvitae) - [Publications](publications) - [Software and data resources](softwareanddataresources) - [Teaching](teaching)
+[Curriculum vitae](curriculumvitae) - [Publications](research/publications.md) - [Software and data resources](softwareanddataresources) - [Teaching](teaching)
 
 
 I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the at [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
