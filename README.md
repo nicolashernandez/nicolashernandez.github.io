@@ -3,7 +3,6 @@
 
 I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the at [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
 
-
 ## Main research topics
 
 My research interests lie in the Natural Language Processing (NLP) field around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The work is upstream from applications such as summarization, reader assistance and web semantic reasoning. The approaches combine statistical methods and linguistics. 
@@ -16,8 +15,7 @@ Keywords : Accessing the content of ( textual ) documents ; discourse analysis a
 
 More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update early 2021).
 
-
-## <a name="publications">Publications</a> 
+## <a name="publications">Publications</a>  
 
 You may consult my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](http%3A%2F%2Fhal.archives-ouvertes.fr%2Faut%2Fnicolas%2Bhernandez%2F&sa=D&sntz=1&usg=AFQjCNGDzo4443UOUVL3BufXTRSuXxZDIQ) profiles.
 
@@ -32,19 +30,20 @@ You may consult my [Google scholar](http://scholar.google.com/citations?user=Sff
 
 * 2019-... _Co-chief editor_ of the Online [Discours Journal](https://journals.openedition.org/discours) 
 * 2007-... Membre du comité de rédaction de la [revue électronique Discours](https://journals.openedition.org/discours) ; 
-* _Internships manager_ for 2nd and 3rd year at IUT de Nantes - Département Informatique [Open Educational Resource](teaching)
+* _Internships manager_ for 2nd and 3rd year at IUT de Nantes - Département Informatique [[Open Educational Resource](teaching)]
 
-## <a name="teaching">Teaching activities</a> 
+
+## <a name="teaching">Teaching activities</a>  
 
 Université de Nantes
 
 * [M2 INFO - parcours ATAL (Apprentissage et Traitement Automatique de la Langue)](https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique) - X3IT010 - Développement logiciel en industrie de la langue
-* [DUT2 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M2102 - Architecture des réseaux   [Open Educational Resource](teaching)
-* [DUT1 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M4101C - Administration des systèmes et des réseaux [Open Educational Resource](teaching)
+* [DUT2 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M2102 - Architecture des réseaux   [[Open Educational Resource](teaching)]
+* [DUT1 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M4101C - Administration des systèmes et des réseaux [[Open Educational Resource](teaching)]
 * [Licence Professionnelle - MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels) - Technologies Web (XML/json) and Outils de développement (ant, svn, ...)
 
 
-## MISC
+## MISC  
 
 * [NLP readings selection](research/NLP_readings)
 
