@@ -3,7 +3,8 @@
 
 I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the at [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
 
-## Main research topics
+
+## Main research topics
 
 My research interests lie in the Natural Language Processing (NLP) field around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The work is upstream from applications such as summarization, reader assistance and web semantic reasoning. The approaches combine statistical methods and linguistics. 
 
@@ -26,11 +27,11 @@ You may consult my [Google scholar](http://scholar.google.com/citations?user=Sff
 * 2019 [CominLab's AILE](http://aile.comin-ocw.org/) (Artificial Intelligence for Learning Environments) with several internships
 * 2014-2016 [FUI 17 ODISAE](https://www.enghouseinteractive.fr/blog/odisae-un-projet-innovant-pour-la-nouvelle-generation-d-outils-de-gestion-de-la-relation-client) (Optimizing Digital Interaction with a Social and Automated Environment)  ; Réaliser un analyseur sémantique de conversations en ligne (par chat, email ou sur un forum) et de l’utiliser pour enrichir un système de gestion de la relation client (mettre à jour automatiquement les FAQ, détecter les experts, évaluer la qualité des réponses, déclencher des actions au fil de l’interaction, analyser les comportements d’utilisation des différents canaux d’interaction et en particulier l’inter-modalité...)
 
-### Responsabilities
+## Responsabilities
 
 * 2019-... _Co-chief editor_ of the Online [Discours Journal](https://journals.openedition.org/discours) 
 * 2007-... Membre du comité de rédaction de la [revue électronique Discours](https://journals.openedition.org/discours) ; 
-* _Internships manager_ for 2nd and 3rd year at IUT de Nantes - Département Informatique [[Open Educational Resource](teaching)]
+* 2013-... _Internships manager_ for 2nd and 3rd year at IUT de Nantes - Département Informatique [[Open Educational Resource](teaching)]
 
 
 ## <a name="teaching">Teaching activities</a>  
@@ -43,9 +44,11 @@ Université de Nantes
 * [Licence Professionnelle - MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels) - Technologies Web (XML/json) and Outils de développement (ant, svn, ...)
 
 
-## MISC  
+## MISC
 
 * [NLP readings selection](research/NLP_readings)
+* [Guide pratique sur les stages en DUT et Licence Professionnelle Informatique à l’IUT de Nantes](teaching/#guide-pratique-sur-les-stages-en-dut-et-licence-professionnelle-informatique-%C3%A0-liut-de-nantes-avant-pendant-et-%C3%A0-la-fin) (avant, pendant et à la fin)
+* [Gestion de projet](teaching/#gestion-de-projet)] (écrire un rapport, consignes de livraison...)
 
 ## Contact 
 
