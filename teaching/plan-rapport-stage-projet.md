@@ -4,7 +4,7 @@
 Ci-dessous un plan "idéal" d'un rapport de "stage" sur une mission de développement (mi-technique, pas guide utilisateur à part dans les illustrations éventuelles de la réalisation).
 
 Dans le rapport technique (i.e. davantage le cas pour les rapports de "projet"), il y a surtout les sections 1, 5, 6 et 7.1. 
-
+'''
 1. Introduction (contexte, problématique, contribution, plan du rapport)
 2. Présentation de l'environnement de travail (entreprise, équipe, projet, techniques/outils de dev)
 3. Gestion de projet
@@ -22,7 +22,7 @@ Dans le rapport technique (i.e. davantage le cas pour les rapports de "projet"),
 7. Conclusion
   1. Bilan et perspectives sur l'application réalisée (l'état de votre avancement dans le projet au prorata de votre explication sur votre activité et difficulté rencontré : ce qui a été conçu, réalisé, ce qui pourrait être poursuivi, pistes éventuelles sur la manière de concevoir/réaliser la suite)
   2. Bilan personnel sur l'expérience humaine, méthodologique et technique 
-
+''''
 ## Retour sur quelques sections 
 
 
