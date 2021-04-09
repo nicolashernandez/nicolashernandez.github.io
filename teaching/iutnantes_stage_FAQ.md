@@ -17,15 +17,15 @@ Elles complète des ressources officielles plus générales
 SOMMAIRE
 ===========
 
-- AVANT LE STAGE (préparation du stage, recherche de stage)
-- CONTACTER UNE ENTREPRISE
-- FAIRE VALIDER UNE OFFRE DE STAGE
-- OFFRE DE STAGE VALIDÉE, MAIS PAS ENCORE DE CONVENTION
-- PENDANT LE STAGE
-- A LA FIN DU STAGE 
+- [AVANT LE STAGE](#AVANT) (préparation du stage, recherche de stage)
+- [CONTACTER UNE ENTREPRISE](#CONTACTER)
+- [FAIRE VALIDER UNE OFFRE DE STAGE](#VALIDER)
+- [OFFRE DE STAGE VALIDÉE, MAIS PAS ENCORE DE CONVENTION](#CONVENTION)
+- [PENDANT LE STAGE](#PENDANT)
+- [A LA FIN DU STAGE](#FIN)
 
 
-AVANT LE STAGE (préparation du stage, recherche de stage)
+<a name="AVANT"></a> AVANT LE STAGE (préparation du stage, recherche de stage)
 ======================
 
 Qui sont mes interlocuteurs à l'IUT ?
@@ -238,7 +238,7 @@ La réponse est donc : oui à moins que je ne vous ai validé une offre de stage
 
 
 
-CONTACTER UNE ENTREPRISE
+<a name="CONTACTER"></a>  CONTACTER UNE ENTREPRISE
 ======================
 
 Comment faire pour retenir l'attention d'une entreprise
@@ -272,8 +272,7 @@ Problèmes rencontrés par les étudiants
 * vous ne connaissez pas la netiquette -> mettre en cc les personnes concernées notamment tuteur/maître de stage dans les échanges, faire un répondre à tous quand plusieurs,  envoyer un lien où télécharger un fichier plutôt qu'une pièce en attaché la planète vous le rendra, 
 * vous ne faîtes pas de relance -> faire des relances par mail/tel au bout d'une semaine
 
-
-FAIRE VALIDER UNE OFFRE DE STAGE
+<a name="VALIDER"></a> FAIRE VALIDER UNE OFFRE DE STAGE
 ====================================
 
 Comment faire valider une offre de stage par le responsable des stages ?
@@ -319,7 +318,7 @@ L'offre de stage ne sera pas validée. Poursuivre votre recherche.
 Le diplôme que vous préparez est un diplôme universitaire de technicien supérieur en informatique. On ne peut pas vous attribuer ce diplôme si vous ne validez pas un stage dans le domaine.
 
 
-OFFRE DE STAGE VALIDÉE, MAIS PAS ENCORE DE CONVENTION
+<a name="CONVENTION"></a> OFFRE DE STAGE VALIDÉE, MAIS PAS ENCORE DE CONVENTION
 ======================
 
 Que dois-je faire après que le responsable des stages ait validé une offre que je lui ai présentée
@@ -339,7 +338,7 @@ Il vous faut alors vous présenter muni d'une attestation Assurance Responsabili
 Sauf cas particulier, le secrétariat se charge d'envoyer la convention à l'entreprise.
 En pratique la préparation des conventions débute en janvier…
 
-PENDANT LE STAGE
+<a name="PENDANT"></a> PENDANT LE STAGE
 ======================
 
 
@@ -450,7 +449,7 @@ _Si une extension de quelques jours est acceptée (par l'IUT après demande de l
 
 
 
-A LA FIN DU STAGE 
+<a name="FIN"></a> A LA FIN DU STAGE 
 ============================
 
 Comment suis-je évalué ? 
@@ -465,7 +464,7 @@ Il s'agit d'une évaluation conjointe maître du stage, tuteur enseignant/enseig
 
 Que peut t-on trouver dans un mémoire de stage ?
 -------------------------------------------------
-* Ici des [consignes pour un rapport technique](http://enicolashernandez.blogspot.fr/2011/03/redaction-dun-rapport-de-stage.html) (à la carte), mais votre rapport est un mémoire et non un rapport technique. Attention néanmoins, il doit démontrer vos compétences informatiques nouvellement acquises ou bien mise en oeuvre par rapport à votre formation. Il est en cela un brin technique…
+* Ici des [consignes pour rédiger votre rapport de stage](plan-rapport-stage-projet). Votre rapport est un mémoire et non un rapport technique. Attention néanmoins, il doit démontrer vos compétences informatiques nouvellement acquises ou bien mise en oeuvre par rapport à votre formation. Il est en cela un brin technique…
 * Votre mémoire/présentation n'est pas une communication promotionnelle !
 * On doit bien identifier votre contribution personnelle ; mais si vous n'avez fait que des choses en équipe et bien le dire aussi !
 * Toute figure ou table doit être expliquée
@@ -476,6 +475,7 @@ Que peut t-on trouver dans un mémoire de stage ?
 * l'analyse de la problématique : étude de l'existant, spécification du besoin, modélisation (différents diagrammes UML)
 * réalisations, planification, avancement, problèmes et solutions apportés, rapport d'expérience
 
+(précédent lien [consignes pour un rapport technique](http://enicolashernandez.blogspot.fr/2011/03/redaction-dun-rapport-de-stage.html) (à la carte))
 
 Ai-je accès à des exemples de rapports de stage ?
 -----------------------------------------------

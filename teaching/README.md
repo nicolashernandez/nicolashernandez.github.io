@@ -36,3 +36,7 @@ Le présent guide traite des questions
 - A LA FIN DU STAGE (évaluation)
 
 Accédez-ici au [Guide Pratique/FAQ à propos des stages de DUT et Licence Pro au département Informatique de l'IUT Nantes](iutnantes_stage_FAQ.md). 
+
+## Gestion de projet
+
+* [Plan d'un rapport de stage ou de projet](plan-rapport-stage-projet)
