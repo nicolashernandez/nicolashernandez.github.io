@@ -30,12 +30,12 @@ More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update ear
 
 You may consult my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](http%3A%2F%2Fhal.archives-ouvertes.fr%2Faut%2Fnicolas%2Bhernandez%2F&sa=D&sntz=1&usg=AFQjCNGDzo4443UOUVL3BufXTRSuXxZDIQ) profiles.
 
-## <a name="#softwareanddataresources">Software and data resources</a>  
+## <a name="softwareanddataresources">Software and data resources</a>  
 
 * [PyRATA](https://github.com/nicolashernandez/PyRATA) Python Rule-based feAture sTructure Analysis" in particular for "Text Analysis
 * [Dialogue acts recognizer for French computer-mediated communication](https://goo.gl/forms/QDfs72kTSYkfGUt82) Communicative function and semantic dimension annotation using the DIT++ label taxonomy
 
-Check the [dedicated page to Software and data resources](research/softwareanddataresources)
+Check the dedicated page to [Software and data resources](research/softwareanddataresources)
 
 ## Projects 
 
@@ -59,7 +59,7 @@ Université de Nantes
 * [DUT1 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M4101C - Administration des systèmes et des réseaux - [[Open Educational Resource](teaching)]
 * [Licence Professionnelle - MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels) - Technologies Web (XML/json) and Outils de développement (ant, svn, ...)
 
-Check my [dedicated page to teaching activities](teaching)
+Check the dedicated page [to teaching activities](teaching)
 
 ## MISC
 
