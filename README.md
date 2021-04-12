@@ -1,12 +1,21 @@
 [Curriculum vitae](#curriculumvitae) - [Publications](#publications) - [Software and data resources](research/softwareanddataresources) - [Teaching](#teaching)
 
+## Contact 
 
-I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the at [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
+![Alps](alps.jpg "Alps")
+
+* EMail: nicolas.hernandez @univ-nantes.fr
+* Web: [http://www.univ-nantes.fr/hernandez-n](http://www.univ-nantes.fr/hernandez-n)
+* [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) ; [blogspot](http://enicolashernandez.blogspot.com) 
+* LS2N UMR 6004 ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
+* Institut Universitaire de Technologie de Nantes - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
 
 
 ## Main research topics
 
-My research interests lie in the Natural Language Processing (NLP) field around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The work is upstream from applications such as summarization, reader assistance and web semantic reasoning. The approaches combine statistical methods and linguistics. 
+I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
+
+My research interests lie in the Natural Language Processing (NLP) and Text (Data) Mining fields around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The work is upstream from applications in Human Learning () (Customer Relationship Management (CRM) Custsuch as summarization, reader assistance and web semantic reasoning. The approaches combine (deep) machine learning methods and linguistic knowledge. 
 
 I am also interested in the NLP infrastructure/architecture/framework (UIMA) and in the production of language resources (for processing French).
 
@@ -49,11 +58,3 @@ Université de Nantes
 * [NLP readings selection](research/NLP_readings)
 * [Guide pratique sur les stages en DUT et Licence Professionnelle Informatique à l’IUT de Nantes](teaching/#guide-pratique-sur-les-stages-en-dut-et-licence-professionnelle-informatique-%C3%A0-liut-de-nantes-avant-pendant-et-%C3%A0-la-fin) (avant, pendant et à la fin)
 * [Gestion de projet](teaching/#gestion-de-projet)] (écrire un rapport, consignes de livraison...)
-
-## Contact 
-
-* EMail: nicolas.hernandez @univ-nantes.fr
-* Web: [http://www.univ-nantes.fr/hernandez-n](http://www.univ-nantes.fr/hernandez-n)
-* [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) ; [blogspot](http://enicolashernandez.blogspot.com) 
-* LS2N UMR 6004 ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
-* Institut Universitaire de Technologie de Nantes - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
