@@ -2,13 +2,18 @@
 
 ## Contact 
 
-<img src="alps.jpg" alt="Alps" style="height: 100px; width:80px;"/>
-
+<div class="row">
+  <div class="col-md-8" markdown="1">
+    <img src="alps.jpg" alt="Alps" style="height: 150px; width:200px;"/>
+  </div>
+  <div class="col-md-4" markdown="1">
 * EMail: nicolas.hernandez @univ-nantes.fr
 * Web: [http://www.univ-nantes.fr/hernandez-n](http://www.univ-nantes.fr/hernandez-n)
 * [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) ; [blogspot](http://enicolashernandez.blogspot.com) 
 * LS2N UMR 6004 ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
 * Institut Universitaire de Technologie de Nantes - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
+  </div>
+</div>
 
 
 ## Main research topics
