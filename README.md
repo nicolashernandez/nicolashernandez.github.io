@@ -29,7 +29,7 @@
 
 </td>
 </tr>
-
+</table>
 
 ## Main research topics
 
