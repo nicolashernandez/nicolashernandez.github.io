@@ -41,7 +41,7 @@ Check the dedicated page to [Software and data resources](research/softwareandda
 
 * 2019-... _Co-chief editor_ of the Online [Discours Journal](https://journals.openedition.org/discours) 
 * 2007-... Membre du comité de rédaction de la [revue électronique Discours](https://journals.openedition.org/discours) ; 
-* 2013-... _Internships manager_ for 2nd and 3rd year at IUT de Nantes - Département Informatique - [[Open Educational Resource](teaching)]
+* 2013-... _Internships manager_ for 2nd and 3rd year at IUT de Nantes - Département Informatique - [Check some dedicated [Open Educational Resources](teaching)]
 
 
 ## <a name="teaching">Teaching activities</a>  
@@ -49,15 +49,15 @@ Check the dedicated page to [Software and data resources](research/softwareandda
 Université de Nantes
 
 * [M2 INFO - parcours ATAL (Apprentissage et Traitement Automatique de la Langue)](https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique) - X3IT010 - Développement logiciel en industrie de la langue
-* [DUT2 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M2102 - Architecture des réseaux  - [[Open Educational Resource](teaching)]
-* [DUT1 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M4101C - Administration des systèmes et des réseaux - [[Open Educational Resource](teaching)]
+* [DUT2 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M2102 - Architecture des réseaux  - [Check some dedicated [Open Educational Resources](teaching)]
+* [DUT1 INFO - PPN 2013](http://iut-informatique.fr/docs/ppn/fr.pdf) - M4101C - Administration des systèmes et des réseaux - [Check some dedicated [Open Educational Resources](teaching)]
 * [Licence Professionnelle - MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels) - Technologies Web (XML/json) and Outils de développement (ant, svn, ...)
 
-Check the dedicated page to [ teaching activities](teaching)
+Check the dedicated page to [teaching activities](teaching)
 
 ## MISC
 
 * [NLP readings selection](research/NLP_readings)
 * [Guide pratique sur les stages en DUT et Licence Professionnelle Informatique à l’IUT de Nantes](teaching/#guide-pratique-sur-les-stages-en-dut-et-licence-professionnelle-informatique-%C3%A0-liut-de-nantes-avant-pendant-et-%C3%A0-la-fin) (avant, pendant et à la fin)
-* [Gestion de projet](teaching/#gestion-de-projet)] (écrire un rapport, consignes de livraison...)
+* [Gestion de projet](teaching/#gestion-de-projet) (écrire un rapport, consignes de livraison...)
 * _Deprecated_ websites : [blogspot](http://enicolashernandez.blogspot.com) ; [http://e.nicolas.hernandez.free.fr](http://e.nicolas.hernandez.free.fr) ; [https://sites.google.com/site/nicolashernandez](https://sites.google.com/site/nicolashernandez) ; [https://www.univ-nantes.fr/nicolas-hernandez](https://www.univ-nantes.fr/nicolas-hernandez)
