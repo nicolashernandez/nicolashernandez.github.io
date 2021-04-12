@@ -2,7 +2,7 @@
 
 ## Contact 
 
-![Alps](alps.jpg "Alps")
+![Alps](alps.jpg "Alps"  =100x80)
 
 * EMail: nicolas.hernandez @univ-nantes.fr
 * Web: [http://www.univ-nantes.fr/hernandez-n](http://www.univ-nantes.fr/hernandez-n)
