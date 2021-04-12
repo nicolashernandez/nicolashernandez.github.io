@@ -6,27 +6,22 @@
 <img src="alps.jpg" alt="Alps" style="height: 150px; width:200px;"/>
 
 * EMail: nicolas.hernandez @univ-nantes.fr
-* Web: [https://nicolashernandez.github.io](https://nicolashernandez.github.io/) ; _Old or unused:_ [http://e.nicolas.hernandez.free.fr](http://e.nicolas.hernandez.free.fr) ; [https://www.univ-nantes.fr/nicolas-hernandez](https://www.univ-nantes.fr/nicolas-hernandez)
-* [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) ; [blogspot](http://enicolashernandez.blogspot.com) 
+* Web: [https://nicolashernandez.github.io](https://nicolashernandez.github.io/) 
+* [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) 
 * LS2N UMR 6004 ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
 * Institut Universitaire de Technologie de Nantes - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
 
-
-## Main research topics
+## <a name="curriculumvitae">Curriculum vitae</a>  
 
 I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
-
-My research interests lie in the Natural Language Processing (NLP) and Text (Data) Mining fields around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The work is upstream from applications in Human Learning () (Customer Relationship Management (CRM) Custsuch as summarization, reader assistance and web semantic reasoning. The approaches combine (deep) machine learning methods and linguistic knowledge. 
-
-I am also interested in the NLP infrastructure/architecture/framework (UIMA) and in the production of language resources (for processing French).
-
-Keywords : Accessing the content of ( textual ) documents ; discourse analysis and modelling ; language resource and NLP infrastructure/architecture ; [UIMA](https://github.com/nicolashernandez/dev-star)
-
-## <a name="curriculumvitae">Curriculum vitae</a>  
 
 More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update early 2021).
 
 ## <a name="publications">Publications</a>  
+
+My research interests lie in the Natural Language Processing (NLP) and Text (Data) Mining fields around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The approaches combine (deep) machine learning methods and linguistic knowledge. The application domains vary from Human Learning through Intelligent tutoring system to Customer Relationship Management (CRM) and mainly consist in supporting human decision-making and business tasks. 
+
+I am also interested in the NLP infrastructure/architecture/framework ([UIMA](https://github.com/nicolashernandez/dev-star)) and in the production of language resources for processing French ([Free French Treebank](https://sites.google.com/site/nicolashernandez/resources/free-french-treebank?authuser=0), [french-nlp](https://github.com/nicolashernandez/french-nlp), ...).
 
 You may consult my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](http%3A%2F%2Fhal.archives-ouvertes.fr%2Faut%2Fnicolas%2Bhernandez%2F&sa=D&sntz=1&usg=AFQjCNGDzo4443UOUVL3BufXTRSuXxZDIQ) profiles.
 
@@ -66,3 +61,4 @@ Check the dedicated page [to teaching activities](teaching)
 * [NLP readings selection](research/NLP_readings)
 * [Guide pratique sur les stages en DUT et Licence Professionnelle Informatique à l’IUT de Nantes](teaching/#guide-pratique-sur-les-stages-en-dut-et-licence-professionnelle-informatique-%C3%A0-liut-de-nantes-avant-pendant-et-%C3%A0-la-fin) (avant, pendant et à la fin)
 * [Gestion de projet](teaching/#gestion-de-projet)] (écrire un rapport, consignes de livraison...)
+* _Deprecated_ websites : [blogspot](http://enicolashernandez.blogspot.com) ; [http://e.nicolas.hernandez.free.fr](http://e.nicolas.hernandez.free.fr) ; [https://sites.google.com/site/nicolashernandez](https://sites.google.com/site/nicolashernandez) ; [https://www.univ-nantes.fr/nicolas-hernandez](https://www.univ-nantes.fr/nicolas-hernandez)
