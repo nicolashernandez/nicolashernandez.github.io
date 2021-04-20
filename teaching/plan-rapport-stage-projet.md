@@ -8,10 +8,11 @@ Dans le rapport technique (i.e. davantage le cas pour les rapports de "projet"),
 
 ```
 1. Introduction (contexte, problématique, contribution, plan du rapport)
-2. Présentation de l'environnement de travail (entreprise, équipe avec les profils techniques, projet, techniques/outils de dev) ; votre position dans l'organigramme de l'entreprise
+2. Présentation de l'environnement de travail : l'entreprise (activités ; informations légale, juridique, financière; organisation), département/équipe dans lequel tu t'insères (sa raison d'être, ton positionnement dans l'équipe, les métiers des personnes avec qui tu travailles, la nature des interactions que tu entretiens avec elles)
 3. Gestion de projet
   3.1. Planification (gantt explicité produit a posteriori accepté)
-  3.2. Méthodologie de travail 
+  3.2. Méthodologie de travail (agile...) 
+  3.3. Outils (collaboratifs/individuels) de travail
 4. Etude de l'existant
   4.1. Solution actuellement en place : Description et limites
   4.2. Etat de l'art : présentation des (pistes de) solutions alternatives possibles   
