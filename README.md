@@ -14,13 +14,13 @@
 
 I am an Associate Professor (Maître de conférences) in Computer Science at the [University of Nantes](https://www.univ-nantes.fr/). I mainly teach at the [Institute of Technology of the University](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) and I do my research at the [LS2N (UMR CNRS 6004) Lab. in the TALN (Natural Language Processing) team](https://www.ls2n.fr/equipe/taln/).
 
-More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update early 2021).
-
-## <a name="publications">Publications</a>  
-
 My research interests lie in the Natural Language Processing (NLP) and Text (Data) Mining fields around the problem of accessing to the content of (textual) documents. In particular, I work on discourse modelling and discourse analysis issues. The approaches combine (deep) machine learning methods and linguistic knowledge. The application domains vary from Human Learning through Intelligent tutoring system to Customer Relationship Management (CRM) and mainly consist in supporting human decision-making and business tasks. 
 
 I am also interested in the NLP infrastructure/architecture/framework ([UIMA](https://github.com/nicolashernandez/dev-star)) and in the production of language resources for processing French ([Free French Treebank](https://sites.google.com/site/nicolashernandez/resources/free-french-treebank?authuser=0), [french-nlp](https://github.com/nicolashernandez/french-nlp), ...).
+
+More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update early 2021).
+
+## <a name="publications">Publications</a>  
 
 You may consult my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](http%3A%2F%2Fhal.archives-ouvertes.fr%2Faut%2Fnicolas%2Bhernandez%2F&sa=D&sntz=1&usg=AFQjCNGDzo4443UOUVL3BufXTRSuXxZDIQ) profiles.
 
