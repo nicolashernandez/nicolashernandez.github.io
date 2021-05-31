@@ -464,7 +464,7 @@ Il s'agit d'une évaluation conjointe maître du stage, tuteur enseignant/enseig
 
 Que peut t-on trouver dans un mémoire de stage ?
 -------------------------------------------------
-* Ici des [consignes pour rédiger votre rapport de stage](plan-rapport-stage-projet). Votre rapport est un mémoire et non un rapport technique. Attention néanmoins, il doit démontrer vos compétences informatiques nouvellement acquises ou bien mise en oeuvre par rapport à votre formation. Il est en cela un brin technique…
+* Ici des [consignes pour rédiger votre rapport de stage](plan-rapport-stage-projet.md). Votre rapport est un mémoire et non un rapport technique. Attention néanmoins, il doit démontrer vos compétences informatiques nouvellement acquises ou bien mise en oeuvre par rapport à votre formation. Il est en cela un brin technique…
 * Votre mémoire/présentation n'est pas une communication promotionnelle !
 * On doit bien identifier votre contribution personnelle ; mais si vous n'avez fait que des choses en équipe et bien le dire aussi !
 * Toute figure ou table doit être expliquée
