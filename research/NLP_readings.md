@@ -13,3 +13,4 @@ Analyse des résultats
 * Analyse univariée https://lepcam.fr/index.php/les-etapes/uni
 * Analyse bivariée https://lepcam.fr/index.php/les-etapes/bivariee
 * Analyse multivariée https://lepcam.fr/index.php/les-etapes/multivariee/
+* Medistica. pvalue.io, a Graphic User Interface to the R statistical analysis software for scientific medical publications. 2020. Available on: https://www.pvalue.io
