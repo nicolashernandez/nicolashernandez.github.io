@@ -22,7 +22,7 @@ More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update ear
 
 ## <a name="publications">Publications</a>  
 
-You may consult my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](http%3A%2F%2Fhal.archives-ouvertes.fr%2Faut%2Fnicolas%2Bhernandez%2F&sa=D&sntz=1&usg=AFQjCNGDzo4443UOUVL3BufXTRSuXxZDIQ) profiles.
+You may consult my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez) profiles.
 
 ## <a name="softwareanddataresources">Software and data resources</a>  
 
