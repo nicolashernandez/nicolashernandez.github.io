@@ -15,7 +15,7 @@ Accédez ici aux ressources pédagogiques (consignes, vidéo, diaporama, test d'
 
 Architecture d’un réseau d’entreprise ;  Installation et configuration des services ; Gestion     des     utilisateurs ; Sécurité du système et du réseau : listes d’accès et de contrôle, authentification, etc. ; Protocoles sécurisés ;  réseaux privés virtuels ; Annuaires: LDAP (Lightweight Directory Access Protocol), AD (Active Directory) ; Chiffrement de données ; Outils     de     supervision ; Mise en œuvre d’une stratégie de sauvegarde 
 
-Accédez ici aux ressources pédagogiques (consignes, vidéo, diaporama, test d'auto-évaluation en ligne...) du [cours Administration des systèmes et des réseaux](https://madoc.univ-nantes.fr/course/view.php?id=29848) qui correspond au [module M4101C du Programme Pédagogique National (PPN) des DUT en Informatique (habilitation 2013)](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf).
+Accédez ici aux ressources pédagogiques (consignes, vidéo, diaporama, test d'auto-évaluation en ligne...) du [cours Administration des systèmes et des réseaux](https://madoc.univ-nantes.fr/course/view.php?id=29877) qui correspond au [module M4101C du Programme Pédagogique National (PPN) des DUT en Informatique (habilitation 2013)](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf).
 
 
 ## Stages
