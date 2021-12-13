@@ -8,7 +8,7 @@ Most of them are released under Creative Commons
 
 Étude  d'architectures  de  réseaux,  incluant  les  modèles  OSI  (Open  Systems  Interconnection)  et  la  pile  TCP/IP (Transmission Control Protocol / Internet Protocol) ;     Technologie des réseaux locaux : Ethernet, WiFi (Wireless Fidelity), etc. ;     Routage, commutation, adressage, transport  ;     Introduction à l’installation et la configuration d'un réseau 
 
-Accédez ici aux ressources pédagogiques (consignes, vidéo, diaporama, test d'auto-évaluation en ligne...) du [cours Architecture des réseaux - DUT 1ère année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) qui correspond au [module M2102 du Programme Pédagogique National (PPN) des DUT en Informatique (habilitation 2013)](http://iut-informatique.fr/docs/ppn/fr.pdf)
+Accédez ici aux ressources pédagogiques (consignes, vidéo, diaporama, test d'auto-évaluation en ligne...) du [cours Architecture des réseaux - DUT 1ère année - PPN 2013](https://madoc.univ-nantes.fr/course/view.php?id=29848) qui correspond au [module M2102 du Programme Pédagogique National (PPN) des DUT en Informatique (habilitation 2013)](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf)
 
 
 ### Administration des systèmes et des réseaux (M4101C) en DUT 2e année
