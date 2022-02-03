@@ -7,6 +7,10 @@ Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Be
 
 Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola. Dive into Deep Learning. 2020 [https://d2l.ai](https://d2l.ai)
 
+Ruder, S., Peters, M. E., Swayamdipta, S., and Wolf, T. (2019). “Transfer Learning in Natural Language Processing”. In: Proceedings of the 2019 Con-
+ference of the North American Chapter of the Association for Computational Linguistics: Tutorials. Association for Computational Linguistics, pp. 15–18. https://aclanthology.org/N19-5004/
+
+
 Analyse des résultats
 * Les bases de l’analyse statistique https://lepcam.fr/index.php/les-etapes/stat/
 * Les bases des tests statistiques https://lepcam.fr/index.php/les-etapes/test/ et https://lepcam.fr/wp-content/uploads/2016/04/Choix-test-statistique.pdf
