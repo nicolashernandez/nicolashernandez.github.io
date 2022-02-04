@@ -68,15 +68,14 @@ Nantes Université
 * [DUT1 INFO - PPN 2013](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf) - M2102 - Architecture des réseaux  - [Check some dedicated [Open Educational Resources](https://madoc.univ-nantes.fr/course/view.php?id=29848)]
 * [DUT2 INFO - PPN 2013](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf) - M4101C - Administration des systèmes et des réseaux - [Check some dedicated [Open Educational Resources](https://madoc.univ-nantes.fr/course/view.php?id=29877)]
 * [Licence Professionnelle - MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels) - Technologies Web (XML/json) and Outils de développement (ant, svn, ...)
-* [Guide Pratique/FAQ à propos des stages de DUT et Licence Pro au département Informatique de l'IUT Nantes.](Guide Pratique/FAQ à propos des stages de DUT et Licence Pro au département Informatique de l'IUT Nantes) (Last edit 2021)
-* [Sondage réalisé auprès des étudiants DUT et Licence Pro de 2015-2016 à l'IUT Nantes à propos de leur expérience sur la recherche et le déroulement de leur stage](https://github.com/nicolashernandez/nicolashernandez.github.io/blob/master/teaching/2016_iutnantes_stage_sondage-aupr%C3%A8s-des-%C3%A9tudiants.pdf)
-* [Plan d'un rapport de stage ou de projet](https://github.com/nicolashernandez/nicolashernandez.github.io/blob/master/teaching/plan-rapport-stage-projet.md)
 
 Check the dedicated page to [teaching activities](teaching)
 
-## MISC
+---
+## MISC (Educational resources and others)
 
 * [NLP readings selection](research/NLP_readings)
 * [Guide pratique sur les stages en DUT et Licence Professionnelle Informatique à l’IUT de Nantes](teaching/#guide-pratique-sur-les-stages-en-dut-et-licence-professionnelle-informatique-%C3%A0-liut-de-nantes-avant-pendant-et-%C3%A0-la-fin) (avant, pendant et à la fin)
 * [Gestion de projet](teaching/#gestion-de-projet) (écrire un rapport, consignes de livraison...)
+* [Sondage réalisé auprès des étudiants DUT et Licence Pro de 2015-2016 à l'IUT Nantes à propos de leur expérience sur la recherche et le déroulement de leur stage](https://github.com/nicolashernandez/nicolashernandez.github.io/blob/master/teaching/2016_iutnantes_stage_sondage-aupr%C3%A8s-des-%C3%A9tudiants.pdf)
 * _Deprecated_ websites : [blogspot](http://enicolashernandez.blogspot.com) ; [http://e.nicolas.hernandez.free.fr](http://e.nicolas.hernandez.free.fr) ; [https://sites.google.com/site/nicolashernandez](https://sites.google.com/site/nicolashernandez) ; [https://www.univ-nantes.fr/nicolas-hernandez](https://www.univ-nantes.fr/nicolas-hernandez)
