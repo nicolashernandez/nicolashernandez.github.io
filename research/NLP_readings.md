@@ -5,11 +5,15 @@ Mariana Neves, Jurica Ševa, An extensive review of tools for manual annotation 
 
 Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru. Model Cards for Model Reporting. FAT* '19: Conference on Fairness, Accountability, and Transparency, January 29--31, 2019, Atlanta, GA, USA [https://arxiv.org/abs/1810.03993]
 
+Ian Goodfellow and Yoshua Bengio and Aaron Courville, Deep Learning book, MIT Press, 2016  [http://www.deeplearningbook.org](https://www.deeplearningbook.org) ; [https://github.com/janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf)
+
 Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola. Dive into Deep Learning. 2020 [https://d2l.ai](https://d2l.ai)
 
 Ruder, S., Peters, M. E., Swayamdipta, S., and Wolf, T. (2019). “Transfer Learning in Natural Language Processing”. In: Proceedings of the 2019 Con-
 ference of the North American Chapter of the Association for Computational Linguistics: Tutorials. Association for Computational Linguistics, pp. 15–18. https://aclanthology.org/N19-5004/
 
+
+Sebastian Ruder. Posts about different aspects of transfer learning. [https://ruder.io/tag/transfer-learning/index.html](https://ruder.io/tag/transfer-learning/index.html)
 
 Analyse des résultats
 * Les bases de l’analyse statistique https://lepcam.fr/index.php/les-etapes/stat/
