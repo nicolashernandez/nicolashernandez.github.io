@@ -34,6 +34,10 @@ More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update ear
 
 You may consult my [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez) profiles.
 
+* Nicolas Hernandez, [Description et Détection Automatique de Structures de Texte](http://e.nicolas.hernandez.free.fr/pub/rec/phd/Hernandez-these.tar.gz), Université Paris-Sud XI, 14 décembre 2004, PhD Thesis
+* Une [sélection de publications (fév. 2021)](research/publications.md)
+
+---
 ## <a name="softwareanddataresources">Software and data resources</a>  
 
 * [PyRATA](https://github.com/nicolashernandez/PyRATA) Python Rule-based feAture sTructure Analysis" in particular for "Text Analysis
