@@ -69,6 +69,7 @@ Nantes Université
 
 * [M2 INFO - parcours ATAL (Apprentissage et Traitement Automatique de la Langue)](https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique) - X3IT010 - [Développement logiciel en industrie de la langue (ressources libres en ligne)](https://github.com/nicolashernandez/teaching_nlp)
 * [M2 Cultures Numériques](https://polytech.univ-nantes.fr/fr/les-formations/master) - DATA 3 - [Introduction au Traitement Automatique des Langues(ressources libres en ligne)](https://github.com/nicolashernandez/teaching_nlp)
+* [BUT1 INFO - R2.04 "Réseaux et communications bas niveaux](https://madoc.univ-nantes.fr/course/view.php?id=50785)
 * [DUT1 INFO - PPN 2013](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf) - M2102 - Architecture des réseaux  - [Check some dedicated [Open Educational Resources](https://madoc.univ-nantes.fr/course/view.php?id=29848)]
 * [DUT2 INFO - PPN 2013](https://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf) - M4101C - Administration des systèmes et des réseaux - [Check some dedicated [Open Educational Resources](https://madoc.univ-nantes.fr/course/view.php?id=29877)]
 * [Licence Professionnelle - MiAR](https://iutnantes.univ-nantes.fr/formations/licences-pro-bac3/licence-professionnelle-metiers-de-linformatique-conception-developpement-et-test-de-logiciels) - Technologies Web (XML/json) and Outils de développement (ant, svn, ...)
