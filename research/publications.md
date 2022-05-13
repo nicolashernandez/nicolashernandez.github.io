@@ -22,6 +22,10 @@ Conférences internationales (CORE B)
 * Basma El Amel Boussaha, Nicolas Hernandez, Christine Jacquin, Emmanuel Morin. Towards Simple but Efficient Next Utterance Ranking, In 20th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), La Rochelle, France, Avr 2019  [article long ; session poster]
 * Soufian Salim, Nicolas Hernandez, and Emmanuel Morin. Dialogue Act Taxonomy Interoperability Using a Meta-Model. In 18th International Conference on Computational Linguistics and Intelligent Text Processing (CICLing), Budapest, Hungary, Avr 2017 [article long ; session orale]
 
+## Conférences internationales (CORE B)
+
+* Esther Félix, Nicolas Hernandez and Issam Rebaï, Exploring the Limits of Lexicon-based Natural Language Processing Techniques for Measuring Engagement and Predicting MOOC’s Certification, 14th International Conference on Computer Supported Education (CSEDU), Online Streaming, April 22 - 24, 2022
+
 ## Conférences internationales (CORE C)
 
 * Salima Mdhaffar, Yannick Estève, Antoine Laurent, Nicolas Hernandez, Richard Dufour, Delphine Charlet, Geraldine Damnati, Solen Quiniou, Nathalie Camelin. A Multimodal Educational Corpus of Oral Courses: Annotation, Analysis and Case Study. In Proceedings of the 12th Language Resources and Evaluation Conference (LREC), 2020 [article long ; session orale]
@@ -38,5 +42,6 @@ Amir Hazem, Nicolas Hernandez, Basma Boussaha. A multi-domain framework for text
 
 ## Ateliers internationaux (avec comité de sélection et actes)
 
+* Nicolas Hernandez, Tristan Faine and Nabil Oulbaz, Open corpora and toolkit for assessing text readability in French, 2nd Workshop on Tools and Resources for People with REAding DIfficulties (READI@LREC), Marseille, France, June, 24th 2022
 * Basma El Amel Boussaha, Nicolas Hernandez, Christine Jacquin, Emmanuel Morin. Multi-level Context Response Matching in Retrieval-Based Dialog Systems Dialog System Technology Challenges Workshop (DSTC 7) at AAAI, Honolulu, US, Jan 2019
 * Basma El Amel Boussaha, Nicolas Hernandez, Christine Jacquin, Emmanuel Morin. Next utterance ranking based on context response similarity, 5th Machine Learning and Data Analytics Symposium (MLDAS), Doha, Qatar, Mar 2018
