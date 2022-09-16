@@ -11,11 +11,11 @@ Mariana Neves, Jurica Ševa, [An extensive review of tools for manual annotation
 
 ## Deep Learning
 
-Bonan Min, Hayley Ross, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz, Dan Roth, [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243), Nov 2021, arxiv
-
 Ian Goodfellow and Yoshua Bengio and Aaron Courville, Deep Learning book, MIT Press, 2016  [http://www.deeplearningbook.org](https://www.deeplearningbook.org) ; [https://github.com/janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf)
 
 Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola. Dive into Deep Learning. 2020 [https://d2l.ai](https://d2l.ai)
+
+Bonan Min, Hayley Ross, Elior Sulem, Amir Pouran Ben Veyseh, Thien Huu Nguyen, Oscar Sainz, Eneko Agirre, Ilana Heinz, Dan Roth, [Recent Advances in Natural Language Processing via Large Pre-Trained Language Models: A Survey](https://arxiv.org/abs/2111.01243), Nov 2021, arxiv
 
 Ruder, S., Peters, M. E., Swayamdipta, S., and Wolf, T. (2019). “Transfer Learning in Natural Language Processing”. In: Proceedings of the 2019 Con-
 ference of the North American Chapter of the Association for Computational Linguistics: Tutorials. Association for Computational Linguistics, pp. 15–18. https://aclanthology.org/N19-5004/
