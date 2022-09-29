@@ -11,6 +11,8 @@ Gilles Adda, Annelies Braffort, Ioana Vasilescu, François Yvon, Nominé Jean-Fr
 
 Usman Naseem, Imran Razzak, Shah Khalid Khan, Mukesh Prasad, [A Comprehensive Survey on Word Representation Models: From Classical to State-Of-The-Art Word Representation Language Models](https://arxiv.org/abs/2010.15036), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), 2020
 
+Anna Rogers, Olga Kovaleva, and Anna Rumshisky. 2020. [A Primer in BERTology: What We Know About How BERT Works](https://aclanthology.org/2020.tacl-1.54). Transactions of the Association for Computational Linguistics, 8:842–866.
+
 ## Deep Learning
 
 Ian Goodfellow and Yoshua Bengio and Aaron Courville, Deep Learning book, MIT Press, 2016  [http://www.deeplearningbook.org](https://www.deeplearningbook.org) ; [https://github.com/janishar/mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf)
