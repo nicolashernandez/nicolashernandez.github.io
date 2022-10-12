@@ -32,6 +32,12 @@ Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Be
 
 Mariana Neves, Jurica Ševa, [An extensive review of tools for manual annotation of documents](https://academic.oup.com/bib/article/22/1/146/5670958), Briefings in Bioinformatics, Volume 22, Issue 1, January 2021, Pages 146–163, [https://github.com/mariananeves/annotation-tools]
 
+## Ethics, Green, Research practice
+
+Ana Lucic, Maurits Bleeker, Samarth Bhargav, Jessica Forde, Koustuv Sinha, Jesse Dodge, Sasha Luccioni, and Robert Stojnic. 2022. [Towards Reproducible Machine Learning Research in Natural Language Processing](https://aclanthology.org/2022.acl-tutorials.2/). In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics: Tutorial Abstracts, pages 7–11, Dublin, Ireland.  
+
+Notamment [Reproducibility check-list](https://jessedodge.github.io/NLP_Reproducibility_Checklist_V1.2.pdf), [ACL Rolling Review](https://aclrollingreview.org/responsibleNLPresearch/), [ACL adopts the ACM Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics)
+
 ## Analyse des résultats
 * Les bases de l’analyse statistique https://lepcam.fr/index.php/les-etapes/stat/
 * Les bases des tests statistiques https://lepcam.fr/index.php/les-etapes/test/ et https://lepcam.fr/wp-content/uploads/2016/04/Choix-test-statistique.pdf
