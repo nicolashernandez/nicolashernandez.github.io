@@ -7,6 +7,7 @@
 
 * EMail: nicolas.hernandez @univ-nantes.fr
 * Network: [Web site](https://nicolashernandez.github.io) ; [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) 
+* Member of the [TALN team](https://taln-ls2n.github.io/)
 * LS2N UMR 6004 ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
 * Institut Universitaire de Technologie de Nantes - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
 
@@ -14,7 +15,13 @@
 ---
 ## <a name="news">News</a>  
 
-2022 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [emotion prediction through emojis as proxy and adaptation to other domains than Twitter](https://www.ls2n.fr/stage-these/prediction-de-letat-mental-dun-utilisateur-de-twitter)
+* Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
+* Jul 6, 2022 - [Accepted ANR Project Lexhnology](https://taln-ls2n.github.io/2022/07/06/accepted-anr-project-lexhnology.html)
+* May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
+* May 5, 2022 - [One paper accepted at the READI worskhop @ LREC 2022](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
+
+Old events :
+* 2022 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [emotion prediction through emojis as proxy and adaptation to other domains than Twitter](https://www.ls2n.fr/stage-these/prediction-de-letat-mental-dun-utilisateur-de-twitter)
 
 
 ---
