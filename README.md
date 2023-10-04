@@ -19,6 +19,8 @@
 * Sept 1, 2023 6-month exemption from teaching and administrative duties (CRCT CNU)
 * Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
 * Jul 6, 2022 - [Accepted ANR Project Lexhnology](https://taln-ls2n.github.io/2022/07/06/accepted-anr-project-lexhnology.html)
+
+
 <!--* May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
 * May 5, 2022 - [One paper accepted at the READI worskhop @ LREC 2022](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
 -->
