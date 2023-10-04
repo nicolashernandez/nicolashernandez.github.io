@@ -14,11 +14,14 @@
 
 ---
 ## <a name="news">News</a>  
-
+* Oct 1, 2023 [Anas Belfathi starts as Ph.D. student](https://www.linkedin.com/in/anas-belfathi-631619224)
+* Sept 7, 2023 Co-organisation d'une [journée GdR CNRS TAL sur "Modèles de langue pour les domaines de spécialité"](https://gdr-tal-nantes.sciencesconf.org)
+* Sept 1, 2023 6-month exemption from teaching and administrative duties (CRCT CNU)
 * Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
 * Jul 6, 2022 - [Accepted ANR Project Lexhnology](https://taln-ls2n.github.io/2022/07/06/accepted-anr-project-lexhnology.html)
-* May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
+<!--* May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
 * May 5, 2022 - [One paper accepted at the READI worskhop @ LREC 2022](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
+-->
 
 Old events :
 * 2022 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [emotion prediction through emojis as proxy and adaptation to other domains than Twitter](https://www.ls2n.fr/stage-these/prediction-de-letat-mental-dun-utilisateur-de-twitter)
