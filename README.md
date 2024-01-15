@@ -4,11 +4,11 @@
 
 
 <img src="alps.jpg" alt="Alps" style="height: 150px; width:200px;"/>
-* Associate Professor [Nantes University](https://www.univ-nantes.fr/) 
-* Member of the [TALN team](https://taln-ls2n.github.io/)
+
+* Associate Professor at [Nantes University](https://www.univ-nantes.fr/) 
+* Member of the [TALN (NLP) research team](https://taln-ls2n.github.io/) at [LS2N UMR CNRS 6004 Laboratory](https://www.ls2n.fr/equipe/taln/) ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
 * Topics: Natural Language Processing (NLP); Language modelling; Text (Data) Mining; Discourse modelling and analysis; Human Learning; Human Relationship Management; production of language resources for processing French  
-* [LS2N UMR CNRS 6004](https://www.ls2n.fr/equipe/taln/) ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
-* [Institut Universitaire de Technologie de Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
+* Mainly teaching at [Institut Universitaire de Technologie de Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
 * EMail: nicolas.hernandez @univ-nantes.fr
 * [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) 
 * Publications: [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez)
@@ -43,14 +43,10 @@
 * Educational resources release [Sondage réalisé auprès des étudiants DUT et Licence Pro de 2015-2016 à l'IUT Nantes à propos de leur expérience sur la recherche et le déroulement de leur stage](https://github.com/nicolashernandez/nicolashernandez.github.io/blob/master/teaching/2016_iutnantes_stage_sondage-aupr%C3%A8s-des-%C3%A9tudiants.pdf)
 
 
-
-
 ---
 ## <a name="old">Old information</a>  
 
-
 * 2019-2022 Responsabilities: _Co-chief editor_ of the Online [Discours Journal](https://journals.openedition.org/discours) 
-
 * Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
 * May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
 * May 5, 2022 - [One paper accepted at the READI worskhop @ LREC 2022](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
