@@ -14,6 +14,7 @@
 
 ---
 ## <a name="news">News</a>  
+* 2024 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [Automatic generation of section headings in legal texts](https://www.ls2n.fr/stages-theses/)
 * Oct 1, 2023 [Anas Belfathi starts as Ph.D. student](https://www.linkedin.com/in/anas-belfathi-631619224)
 * Sept 7, 2023 Co-organisation d'une [journée GdR CNRS TAL sur "Modèles de langue pour les domaines de spécialité"](https://gdr-tal-nantes.sciencesconf.org)
 * Sept 1, 2023 6-month exemption from teaching and administrative duties (CRCT CNU)
@@ -38,7 +39,7 @@ My research interests lie in the Natural Language Processing (NLP) and Text (Dat
 
 I am also interested in the NLP infrastructure/architecture/framework ([UIMA](https://github.com/nicolashernandez/dev-star)) and in the production of language resources for processing French ([Free French Treebank](https://sites.google.com/site/nicolashernandez/resources/free-french-treebank?authuser=0), [french-nlp](https://github.com/nicolashernandez/french-nlp), ...).
 
-More details on my [CV](research/Nicolas-Hernandez_CV_2021.pdf) (Last update early 2021).
+More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023).
 
 
 ---
