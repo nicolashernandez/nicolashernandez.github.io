@@ -18,11 +18,12 @@
 ---
 ## <a name="news">News</a>  
 * 2024 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [Automatic generation of section headings in legal texts](https://www.ls2n.fr/stages-theses/)
+* Nov 27, 2023 Participation à la table ronde “Argument Mining on the Era of Generative AI: Results and Open Challenges” de la [Journée Natural Language Argumentation – GDR TAL – GDR RADIA](https://gdr-tal.ls2n.fr/event/journee-natural-language-argumentation-gdr-tal-gdr-radia/)
+* Oct 17, 2023 Co-oganisation de la [journée Alumni 10 ans du parcours ATAL (Master INFO)](https://www.linkedin.com/feed/update/urn:li:activity:7132504668076728320)
 * Oct 1, 2023 [Anas Belfathi starts as Ph.D. student](https://www.linkedin.com/in/anas-belfathi-631619224)
 * Sept 7, 2023 Co-organisation d'une [journée GdR CNRS TAL sur "Modèles de langue pour les domaines de spécialité"](https://gdr-tal-nantes.sciencesconf.org)
-* Sept 1, 2023 6-month exemption from teaching and administrative duties (CRCT CNU)
-* Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
-* Jul 6, 2022 - [Accepted ANR Project Lexhnology](https://taln-ls2n.github.io/2022/07/06/accepted-anr-project-lexhnology.html)
+* Sept, 2023 Création du groupe LinkedIn [Alumni Apprentissage et Traitement Automatique des Langues Nantes Université](https://www.linkedin.com/groups/12832758)
+* Sept 1, 2023 6-month exemption from teaching and administrative duties (CRCT CNU 27)
 
 
 <!--* May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
@@ -30,6 +31,8 @@
 -->
 
 Old events :
+* Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
+* Jul 6, 2022 - [Accepted ANR Project Lexhnology](https://taln-ls2n.github.io/2022/07/06/accepted-anr-project-lexhnology.html)
 * 2022 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [emotion prediction through emojis as proxy and adaptation to other domains than Twitter](https://www.ls2n.fr/stage-these/prediction-de-letat-mental-dun-utilisateur-de-twitter)
 * Nicolas Hernandez, [Description et Détection Automatique de Structures de Texte](http://e.nicolas.hernandez.free.fr/pub/rec/phd/Hernandez-these.tar.gz), Université Paris-Sud XI, 14 décembre 2004, PhD Thesis
 * June 30, 2021 Last release of [PyRATA](https://github.com/nicolashernandez/PyRATA) Python Rule-based feAture sTructure Analysis" in particular for "Text Analysis
