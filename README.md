@@ -4,14 +4,15 @@
 
 
 <img src="alps.jpg" alt="Alps" style="height: 150px; width:200px;"/>
-
-* EMail: nicolas.hernandez @univ-nantes.fr
-* [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) 
+* Associate Professor [Nantes University](https://www.univ-nantes.fr/) 
 * Member of the [TALN team](https://taln-ls2n.github.io/)
-* Publications: [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez)
-* More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023)
+* Topics: Natural Language Processing (NLP); Language modelling; Text (Data) Mining; Discourse modelling and analysis; Human Learning; Human Relationship Management; production of language resources for processing French  
 * [LS2N UMR CNRS 6004](https://www.ls2n.fr/equipe/taln/) ; 2, Rue de la Houssiniere F-44322 Nantes Cedex 3 - FRANCE ; Phone: +33 (0)2 51 12 53 94;
 * [Institut Universitaire de Technologie de Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) - Departement Informatique ; 3 rue du Marechal Joffre 44041 Nantes ; Phone: +33 (0)2 40 30 60 67; 
+* EMail: nicolas.hernandez @univ-nantes.fr
+* [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) 
+* Publications: [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez)
+* More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023)
 
 <!-- Network: [Web site](https://nicolashernandez.github.io) ; -->
 
@@ -26,19 +27,20 @@
 * Sept 1, 2023 6-month exemption from teaching and administrative duties (CRCT CNU 27)
 
 
-<!--* May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
-* May 5, 2022 - [One paper accepted at the READI worskhop @ LREC 2022](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
--->
-
-Old events :
+Old events:
+* Nov 29, 2022, 2022 update of my [open online resources for teaching nlp](https://github.com/nicolashernandez/teaching_nlp) (interactive python notebooks)
 * Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
 * Jul 6, 2022 - [Accepted ANR Project Lexhnology](https://taln-ls2n.github.io/2022/07/06/accepted-anr-project-lexhnology.html)
+* May 15, 2022 - [One paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
+* May 5, 2022 - [One paper accepted at the READI worskhop @ LREC 2022](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
 * 2022 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [emotion prediction through emojis as proxy and adaptation to other domains than Twitter](https://www.ls2n.fr/stage-these/prediction-de-letat-mental-dun-utilisateur-de-twitter)
-* Nicolas Hernandez, [Description et Détection Automatique de Structures de Texte](http://e.nicolas.hernandez.free.fr/pub/rec/phd/Hernandez-these.tar.gz), Université Paris-Sud XI, 14 décembre 2004, PhD Thesis
+
+A selection of personal links:
 * June 30, 2021 Last release of [PyRATA](https://github.com/nicolashernandez/PyRATA) Python Rule-based feAture sTructure Analysis" in particular for "Text Analysis
 * 2017 Last release of [Dialogue acts recognizer for French computer-mediated communication](https://goo.gl/forms/QDfs72kTSYkfGUt82) Communicative function and semantic dimension annotation using the DIT++ label taxonomy
+* Nicolas Hernandez, [Description et Détection Automatique de Structures de Texte](http://e.nicolas.hernandez.free.fr/pub/rec/phd/Hernandez-these.tar.gz), Université Paris-Sud XI, 14 décembre 2004, PhD Thesis
 
-
+<!--
 
 ---
 ## <a name="curriculumvitae">Curriculum vitae</a>  
@@ -50,6 +52,7 @@ My research interests lie in the Natural Language Processing (NLP) and Text (Dat
 I am also interested in the NLP infrastructure/architecture/framework ([UIMA](https://github.com/nicolashernandez/dev-star)) and in the production of language resources for processing French ([Free French Treebank](https://sites.google.com/site/nicolashernandez/resources/free-french-treebank?authuser=0), [french-nlp](https://github.com/nicolashernandez/french-nlp), ...).
 
 More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023).
+
 
 
 ---
@@ -69,7 +72,7 @@ You may consult my [Google scholar](http://scholar.google.com/citations?user=Sff
 
 Check the dedicated page to [Software and data resources](research/softwareanddataresources)
 
-
+-->
 ---
 ## Projects 
 
