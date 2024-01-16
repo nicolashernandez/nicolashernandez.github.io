@@ -19,18 +19,21 @@
 ## <a name="research">Research</a>  
 * 2024 Intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [Automatic generation of section headings in legal texts](https://www.ls2n.fr/stages-theses/)
 * Nov 27, 2023 Participation à la table ronde “Argument Mining on the Era of Generative AI: Results and Open Challenges” de la [Journée Natural Language Argumentation – GDR TAL – GDR RADIA](https://gdr-tal.ls2n.fr/event/journee-natural-language-argumentation-gdr-tal-gdr-radia/)
+* Dec 19th 2023, Accepted paper with a special mention in the Best paper awards ["Harnessing GPT-3.5-turbo for Rhetorical Role Prediction in Legal Cases" (Belfathi et al., JURIX 2023)](https://jurix23.maastrichtlawtech.eu/proceedings/)
 * Oct 1, 2023 [Anas Belfathi starts as Ph.D. student](https://www.linkedin.com/in/anas-belfathi-631619224)
 * Sept 7, 2023 Co-organisation d'une [journée GdR CNRS TAL sur "Modèles de langue pour les domaines de spécialité"](https://gdr-tal-nantes.sciencesconf.org)
 * Sept 1, 2023 6-month exemption from teaching and administrative duties (CRCT CNU 27)
+* June 23rd, 2023 Accepted paper ["Enhacing Pre-trained Language Models with Sentence Position Embeddings for Rhetorecal Roles in Legal Opinions" (Belfathi et al., ASAIL Workshop 2023 held in conjunction with ICAIL 2023)](https://sites.google.com/view/asail/asail-home https://sites.google.com/view/asail/asail-2023-schedule?authuser=0)) 
+<!--* 6th Workshop on Automated Semantic Analysis of Information in Legal Text (ASAIL 2023) held in conjunction with 19th ICAIL - International Conference on Artificial Intelligence and Law 2023 (ICAIL 2023), Braga, Portugal. -->
 * Oct 1, 2022 [Leane Jourdan starts as Ph.D. student](https://taln-ls2n.github.io/2022/10/08/phd_start_leane_jourdan.html)
 * Jul 6, 2022 [Project ANR Lexhnology Accepted !!!](https://lexhnology.hypotheses.org)
-* 2019-2022 Responsability: _Co-chief editor_ of the Online [Discours Journal](https://journals.openedition.org/discours) 
-* May 15, 2022 [Paper accepted at CSEDU 2022](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
-* May 5, 2022 [Paper accepted at the READI worskhop @ LREC 2022](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
-* 2022 intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [emotion prediction through emojis as proxy and adaptation to other domains than Twitter](https://www.ls2n.fr/stage-these/prediction-de-letat-mental-dun-utilisateur-de-twitter)
-* 2007-... Membre du comité de rédaction de la [revue électronique Discours](https://journals.openedition.org/discours) ; 
 
 Older...
+* 2019-2022 Responsability: _Co-chief editor_ of the Online [Discours Journal](https://journals.openedition.org/discours) 
+* May 15, 2022 Accepted paper ["Exploring the Limits of Lexicon-based Natural Language Processing Techniques for Measuring Engagement and Predicting MOOC’s Certification" (Felix et al., CSEDU 2022)](https://taln-ls2n.github.io/2022/05/15/accepted-articles-csedu22.html)
+* May 5, 2022 Accepted paper [Open corpora and toolkit for assessing text readability in French (Hernandez et al., READI worskhop @ LREC 2022)](https://taln-ls2n.github.io/2022/05/05/accepted-articles-readi22.html)
+* 2022 Intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [emotion prediction through emojis as proxy and adaptation to other domains than Twitter](https://www.ls2n.fr/stage-these/prediction-de-letat-mental-dun-utilisateur-de-twitter)
+* 2007-... Membre du comité de rédaction de la [revue électronique Discours](https://journals.openedition.org/discours) ; 
 * 2016-2021 Project [ANR PASTEL ](https://anr.fr/?Projet=ANR-16-CE33-0007) (Transcription Automatique de la Parole pour l'Apprentissage et la Formation) ; [PASTEL web site at LIUM](https://projets-lium.univ-lemans.fr/pastel)
 * 2019 Project [CominLab's AILE](http://aile.comin-ocw.org/) (Artificial Intelligence for Learning Environments) with several internships
 * 2014-2016 Project [FUI 17 ODISAE](https://www.enghouseinteractive.fr/blog/odisae-un-projet-innovant-pour-la-nouvelle-generation-d-outils-de-gestion-de-la-relation-client) (Optimizing Digital Interaction with a Social and Automated Environment)  ; Réaliser un analyseur sémantique de conversations en ligne (par chat, email ou sur un forum) et de l’utiliser pour enrichir un système de gestion de la relation client (mettre à jour automatiquement les FAQ, détecter les experts, évaluer la qualité des réponses, déclencher des actions au fil de l’interaction, analyser les comportements d’utilisation des différents canaux d’interaction et en particulier l’inter-modalité...)
