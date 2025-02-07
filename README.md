@@ -36,7 +36,7 @@ Graduate students
 ## <a name="teaching">Teaching activities</a>  
 
 * Director with Solen Quiniou of the Computer Science [Master program in Machine Learning and Natural Language Processing at the Nantes University FST](https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique), named ATAL (Apprentissage et Traitement Automatique des Langues)
-* LinkedIn [Alumni Apprentissage et Traitement Automatique des Langues Nantes Université](https://www.linkedin.com/groups/12832758
+* LinkedIn [Alumni Apprentissage et Traitement Automatique des Langues Nantes Université](https://www.linkedin.com/groups/12832758)
 
 <!-- Network: [Web site](https://nicolashernandez.github.io) ; -->
 
