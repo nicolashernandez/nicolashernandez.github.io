@@ -13,11 +13,21 @@
 * Publications: [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez)
 * More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023)
 
+Responsabilités
+*  Correspondant [SIF](https://www.societe-informatique-de-france.fr) pour le GdR TAL
+  
 <!-- Network: [Web site](https://nicolashernandez.github.io) ; -->
 
 ---
 ## <a name="research">Research</a>  
-* Feb 6, 2025, Séminaire invité "La face cachée de l'IA Génératives, enjeux et défis" à [l'Assemblée Générale du campus aéronautique](https://www.campus-aeronautique.com/ailes-du-campus) 
+* Program committee member for [https://ecai2025.org/](ECAI-2025), the 28th European Conference on Artificial Intelligence to be held in Bologna in October 2025
+* Program Committee member for [BEA2025](https://sig-edu.org/bea/2025), the 20th Workshop on Innovative Use of NLP for Building Educational Applications to be held in Vienna, Austria, on July 31-August 1, 2025
+* Program committee member [EDM2025](https://educationaldatamining.org/edm2025/), Eighteenth International Conference on Educational Data Mining to be held in Palermo, Italy on July 20-23, 2025
+* Feb 6, 2025, Séminaire invité "La face cachée de l'IA Génératives, enjeux et défis" à [l'Assemblée Générale du campus aéronautique](https://www.campus-aeronautique.com/ailes-du-campus)
+* Program Committee member for [WRAICOGS2025](https://sites.google.com/view/wraicogs1), Workshop on "Writing  Aids  at  the  Crossroads  of AI, Cognitive Science and NLP" held in Abu Dhabi, UAE on Monday, January 20, 2025 during the 31st International Conference on Computational Linguistics (COLING 2025)
+* Accepted Main Conference Long Paper in [COLING 2025](https://coling2025.org/) "Improving Accessibility of SCOTUS Opinions: A Benchmark Study and a New Dataset for Generic Heading Prediction and Specific Heading Generation" Malek Yaich and Nicolas Hernandez
+* Program Committee member for [COLING 2025](https://coling2025.org/), the 31st International Conference on Computational Linguistics in 2025 to be held in Abu Dhabi, UAE, on January 19-24, 2025
+* Participation au montage de l'atelier "[Détecter la structure du discours - humains versus AI](https://fetedelascience-paysdelaloire.fr/loire-atlantique/detecter-la-structure-du-discours-humains-versus-ai/)", collaborations CRINI-LS2N, Fête de la Science, les 12-13 octobre 2024, La Halle 6, Nantes
 * Feb 1, 2024 Participation à la table ronde ["Ce que l’Intelligence Artificielle change à l’Université" dans le cadre d'une journée d'étude organisée par les Bibliothèques Universitaires de Nantes et la Chaire Unesco RELIA](https://bu.univ-nantes.fr/les-formations/journee-detudes-ce-que-lintelligence-artificielle-change-a-luniversite)
 * 2024 Intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [Automatic generation of section headings in legal texts](https://www.ls2n.fr/stages-theses/)
 * Nov 27, 2023 Participation à la table ronde “Argument Mining on the Era of Generative AI: Results and Open Challenges” de la [Journée Natural Language Argumentation – GDR TAL – GDR RADIA](https://gdr-tal.ls2n.fr/event/journee-natural-language-argumentation-gdr-tal-gdr-radia/)
