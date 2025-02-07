@@ -17,6 +17,7 @@
 
 ---
 ## <a name="research">Research</a>  
+* Feb 6, 2025, Séminaire invité "La face cachée de l'IA Génératives, enjeux et défis" à [l'Assemblée Générale du campus aéronautique](https://www.campus-aeronautique.com/ailes-du-campus) 
 * Feb 1, 2024 Participation à la table ronde ["Ce que l’Intelligence Artificielle change à l’Université" dans le cadre d'une journée d'étude organisée par les Bibliothèques Universitaires de Nantes et la Chaire Unesco RELIA](https://bu.univ-nantes.fr/les-formations/journee-detudes-ce-que-lintelligence-artificielle-change-a-luniversite)
 * 2024 Intership offer, 5 months, master degree or postgraduate degree in engineering, LS2N/Nantes University, [Automatic generation of section headings in legal texts](https://www.ls2n.fr/stages-theses/)
 * Nov 27, 2023 Participation à la table ronde “Argument Mining on the Era of Generative AI: Results and Open Challenges” de la [Journée Natural Language Argumentation – GDR TAL – GDR RADIA](https://gdr-tal.ls2n.fr/event/journee-natural-language-argumentation-gdr-tal-gdr-radia/)
