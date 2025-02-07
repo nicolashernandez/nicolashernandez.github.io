@@ -1,7 +1,11 @@
 <!-- [News](#news) -  [Curriculum vitae](#curriculumvitae) - [Publications](#publications) - [Software and data resources](#softwareanddataresources) - [Teaching](#teaching) -->
 
+<!-- --- -->
+
 ## Contact 
+
 <img src="alps.jpg" alt="Alps" style="height: 150px; width:200px;"/>
+
 * EMail: nicolas.hernandez @univ-nantes.fr
 * [Github](https://github.com/nicolashernandez/) ; [LinkedIn](https://www.linkedin.com/in/nicolas-hernandez-28856b2/) 
 * Publications: [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez)
@@ -15,8 +19,7 @@
 * Teaching bachelors at the Computer Sciences department of the [Institut Universitaire de Technologie de Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) (IUT) and master students at the [Faculté des sciences et des techniques]( https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique) (FST)
 * More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023)
 
----
-## <a name="research">Research activities and roles</a>  
+## <a name="research">Research activities </a>  
 
 * Research areas: Artificial Intelligence (AI); Natural Language Processing (NLP); Text (Data) Mining; Deep Learning; Language modeling; Discourse modeling and analysis; French processing
 * [ANR Lexhnology Project 2023-2026](https://lexhnology.hypotheses.org)
@@ -30,7 +33,6 @@ Graduate students
 * Master 2024 [Malek Yaich](https://www.linkedin.com/in/malek-yaich/?originalSubdomain=fr)
 * Master 2024 [Nalin Srun](https://www.linkedin.com/in/nalin-srun-325223290/)
   
----
 ## <a name="teaching">Teaching activities</a>  
 
 * Director with Solen Quiniou of the Computer Science [Master program in Machine Learning and Natural Language Processing at the Nantes University FST](https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique), named ATAL (Apprentissage et Traitement Automatique des Langues)
@@ -38,7 +40,7 @@ Graduate students
 
 <!-- Network: [Web site](https://nicolashernandez.github.io) ; -->
 
----
+
 ## <a name="News">News</a>  
 * Program committee member for [https://ecai2025.org/](ECAI-2025), the 28th European Conference on Artificial Intelligence to be held in Bologna in October 2025
 * Program Committee member for [BEA2025](https://sig-edu.org/bea/2025), the 20th Workshop on Innovative Use of NLP for Building Educational Applications to be held in Vienna, Austria, on July 31-August 1, 2025
@@ -88,9 +90,6 @@ https://taln-ls2n.github.io/2022/07/06/accepted-anr-project-lexhnology.html
 ## <a name="old">Old </a>  
 
  -->
----
-## <a name="selection">Graduate students</a>  
-
 ---
 ## <a name="selection">Misc </a>  
 * June 30, 2021 Release of [PyRATA](https://github.com/nicolashernandez/PyRATA) Python Rule-based feAture sTructure Analysis" in particular for "Text Analysis
