@@ -27,8 +27,8 @@
 * Publications: [Google scholar](http://scholar.google.com/citations?user=SffWGZ0AAAAJ) and [HAL](https://cv.archives-ouvertes.fr/nicolas-hernandez)
 
 Graduate students
-* PdD 2023-... [Anas Belfathi](https://www.linkedin.com/in/anas-belfathi-631619224/)
-* PdD 2022-... [Leane Jourdan](https://jourdanl.github.io)
+* PhD 2023-... [Anas Belfathi](https://www.linkedin.com/in/anas-belfathi-631619224/)
+* PhD 2022-... [Leane Jourdan](https://jourdanl.github.io)
 * Master 2025 [Hreshvik Sewraj](https://www.linkedin.com/in/hreshvik-sewraj)
 * Master 2024 [Malek Yaich](https://www.linkedin.com/in/malek-yaich/?originalSubdomain=fr)
 * Master 2024 [Nalin Srun](https://www.linkedin.com/in/nalin-srun-325223290/)
@@ -42,7 +42,7 @@ Graduate students
 
 
 ## <a name="News">News</a>  
-* Program committee member for [https://ecai2025.org/](ECAI-2025), the 28th European Conference on Artificial Intelligence to be held in Bologna in October 2025
+* Program committee member for [ECAI-2025](https://ecai2025.org/), the 28th European Conference on Artificial Intelligence to be held in Bologna in October 2025
 * Program Committee member for [BEA2025](https://sig-edu.org/bea/2025), the 20th Workshop on Innovative Use of NLP for Building Educational Applications to be held in Vienna, Austria, on July 31-August 1, 2025
 * Program committee member [EDM2025](https://educationaldatamining.org/edm2025/), Eighteenth International Conference on Educational Data Mining to be held in Palermo, Italy on July 20-23, 2025
 
