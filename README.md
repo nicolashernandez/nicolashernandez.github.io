@@ -14,10 +14,10 @@
 
 ## Short bio
 
-* Associate Professor at [Nantes University](https://www.univ-nantes.fr/)
-* Member of the [TALN (NLP) research team](https://taln-ls2n.github.io/) at [LS2N UMR CNRS 6004 Laboratory](https://www.ls2n.fr/equipe/taln/) ; 
-* Teaching bachelors at the Computer Sciences department of the [Institut Universitaire de Technologie de Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) (IUT) and master students at the [Faculté des sciences et des techniques]( https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique) (FST)
-* More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023)
+Nicolas Hernandez is Associate Professor at [Nantes University](https://www.univ-nantes.fr/) and member of the [TALN (NLP) research team](https://taln-ls2n.github.io/) at [LS2N UMR CNRS 6004 Laboratory](https://www.ls2n.fr/equipe/taln/). He holds a PhD in Computer Science from Paris-Sud University, completed with a postdoctoral fellowship at the University of Caen. His research focuses on natural language processing and text mining, with a particular interest in applications to help humans access and understand textual content in specialized domains (e.g. law, education). He is particularly interested in deep neural architectures and learning techniques for modeling and analyzing discourse structure.
+He teaches undergraduate courses at the Computer Science department of the [Institut Universitaire de Technologie de Nantes](https://iutnantes.univ-nantes.fr/formations/bachelor-iut-bac3/but-info) (IUT) and master's courses at the [Faculté des sciences et des techniques](https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique) (FST). His responsibilities include co-directing a master's program in machine learning and natural language processing.
+
+More details on my [CV](research/cv_Hernandez.pdf) (Last update early 2023)
 
 ## <a name="research">Research activities </a>  
 
